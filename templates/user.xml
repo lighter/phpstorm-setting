@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="pla" value="&lt;?=lang('$END$')?&gt;" description="codeigniter php lang" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
