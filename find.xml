@@ -18,14 +18,14 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>.</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
