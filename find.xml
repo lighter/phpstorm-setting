@@ -19,13 +19,21 @@
       <mask>*.css</mask>
       <mask>.</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>^</mask>
+      <mask>&amp;</mask>
+      <mask>*</mask>
+      <mask>*.opn</mask>
+      <mask>*.op</mask>
+      <mask>*.o</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.pn</mask>
+      <mask>*.png</mask>
     </recentFileMasks>
   </component>
 </application>
