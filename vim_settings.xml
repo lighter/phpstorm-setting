@@ -1,0 +1,141 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/contactus.php" timestamp="1498467721010">
+        <mark key="[" line="42" column="62" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/responsiblegaming.php" timestamp="1498467730743">
+        <mark key="[" line="16" column="70" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/gamelist.php" timestamp="1498467580122">
+        <mark key="[" line="1354" column="66" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/faq.php" timestamp="1498467617490">
+        <mark key="[" line="14" column="61" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/transfer.php" timestamp="1498466502026">
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/common/d/footer.php" timestamp="1498467252924">
+        <mark key="[" line="86" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/promotionsrule.php" timestamp="1498467545220">
+        <mark key="[" line="2" column="66" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/requirements.php" timestamp="1498467411806">
+        <mark key="[" line="16" column="66" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/component/m/nav.php" timestamp="1498466848592">
+        <mark key="[" line="54" column="107" />
+        <mark key="]" line="54" column="75" />
+        <mark key="^" line="54" column="75" />
+        <mark key="." line="54" column="75" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1498467748421">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/patronprotection.php" timestamp="1498467553497">
+        <mark key="[" line="6" column="69" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/privacypolicy.php" timestamp="1498467323309">
+        <mark key="'" line="18" column="70" />
+        <mark key="[" line="18" column="70" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/partnerships.php" timestamp="1498465974288">
+        <mark key="[" line="19" column="65" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/favorite.php" timestamp="1498467401846">
+        <mark key="[" line="17" column="72" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/common/m/footer.php" timestamp="1498467343540">
+        <mark key="[" line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/partnerships.php" timestamp="1498467521322">
+        <mark key="[" line="17" column="61" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/contactus.php" timestamp="1498466057359">
+        <mark key="[" line="7" column="68" />
+        <mark key="]" line="7" column="69" />
+        <mark key="^" line="7" column="69" />
+        <mark key="." line="7" column="69" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/component/d/memberinfo.php" timestamp="1498467333263">
+        <mark key="[" line="18" column="157" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/jackpotlist.php" timestamp="1498466427789">
+        <mark key="[" line="15" column="58" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/support.php" timestamp="1498467597988">
+        <mark key="[" line="16" column="67" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/jackpotlist.php" timestamp="1498467767193">
+        <mark key="[" line="14" column="58" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/news.php" timestamp="1498465905531">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/faq.php" timestamp="1498466000749">
+        <mark key="[" line="16" column="63" />
+        <mark key="]" line="16" column="40" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/about.php" timestamp="1498467453461">
+        <mark key="[" line="17" column="63" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/responsiblegaming.php" timestamp="1498466066945">
+        <mark key="[" line="18" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/patronprotection.php" timestamp="1498467535482">
+        <mark key="[" line="13" column="69" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/mobilecasino.php" timestamp="1498465928661">
+        <mark key="[" line="35" column="72" />
+        <mark key="]" line="35" column="77" />
+        <mark key="^" line="35" column="77" />
+        <mark key="." line="35" column="77" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="18" column="70" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/privacypolicy.php" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">PD9waHAgaGVscGVyX3ZpZXdfc3JjKCc=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
