@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/transfer.php" timestamp="1498475955421">
         <mark key="[" line="24" column="59" />
       </file>
+      <file name="$USER_HOME$/work/ocm-frontend/application/helpers/view_helper.php" timestamp="1498538112040">
+        <mark key="[" line="206" column="20" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/responsiblegaming.php" timestamp="1498475893532">
         <mark key="[" line="18" column="70" />
       </file>
@@ -198,8 +201,14 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/requirements.php" timestamp="1498467411806">
         <mark key="[" line="16" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498529670118">
+      <file name="/Dummy.txt" timestamp="1498534453625">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1498538794859">
+        <mark key="[" line="3003" column="24" />
+        <mark key="]" line="3003" column="27" />
+        <mark key="." line="3003" column="27" />
+        <mark key="^" line="3003" column="27" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/patronprotection.php" timestamp="1498529637021">
         <mark key="[" line="13" column="69" />
@@ -267,6 +276,7 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="20" column="38" />
       </file>
+      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Ajax.php" timestamp="1498532958225" />
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/faq.php" timestamp="1498466000749">
         <mark key="[" line="16" column="63" />
         <mark key="]" line="16" column="40" />
@@ -291,11 +301,14 @@
       <register name="0" type="4">
         <text encoding="base64">PD9waHAgaGVscGVyX3ZpZXdfc3JjKCc=</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>'t3'</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>'t3'</text>
       </register>
     </registers>
     <search>
