@@ -4,14 +4,17 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-108/views/component/m/nav.php" timestamp="1498555555463" />
+      <file name="/fragment.js" timestamp="1498560257493">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/transfer.php" timestamp="1498475955421">
         <mark key="[" line="24" column="59" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/helpers/view_helper.php" timestamp="1498548345856">
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="254" column="53" />
-        <mark key="^" line="254" column="53" />
-        <mark key="." line="254" column="53" />
+      <file name="$USER_HOME$/work/ocm-frontend/application/helpers/view_helper.php" timestamp="1498560312273">
+        <mark key="[" line="208" column="47" />
+        <mark key="]" line="208" column="47" />
+        <mark key="^" line="255" column="53" />
+        <mark key="." line="208" column="47" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/responsiblegaming.php" timestamp="1498475893532">
         <mark key="[" line="18" column="70" />
@@ -183,6 +186,9 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="38" />
       </file>
+      <file name="/PHP Console" timestamp="1498560217293">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/privacypolicy.php" timestamp="1498529602098">
         <mark key="[" line="14" column="68" />
       </file>
@@ -216,12 +222,10 @@
       <file name="/Dummy.txt" timestamp="1498558129245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1498554266597">
-        <mark key="'" line="8612" column="26" />
-        <mark key="[" line="3049" column="0" />
-        <mark key="]" line="3049" column="0" />
-        <mark key="." line="3049" column="0" />
-        <mark key="^" line="3049" column="0" />
+      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1498559758803">
+        <mark key="[" line="3057" column="0" />
+        <mark key="]" line="3057" column="0" />
+        <mark key="." line="3057" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/patronprotection.php" timestamp="1498529637021">
         <mark key="[" line="13" column="69" />
@@ -290,7 +294,7 @@
         <mark key="^" line="20" column="38" />
         <mark key="." line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Ajax.php" timestamp="1498532958225" />
+      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Ajax.php" timestamp="1498559299546" />
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/faq.php" timestamp="1498466000749">
         <mark key="[" line="16" column="63" />
         <mark key="]" line="16" column="40" />
@@ -317,19 +321,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiM8Pz0ka2V5X25hbWU/PiI+PD89JGtleV9uYW1lPz48L2E+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiM8Pz0ka2V5X25hbWU/PiI+PD89JGtleV9uYW1lPz48L2E+Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>G</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICA2ODQgID0+IFsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cycgICAgICA9PiAxLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgID0+ICdCQklOJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2ltYWdlJyAgICAgICA9PiAnL2ltYWdlcy9nYW1lY2FyZF9sb3R0ZXJ5X0JCSU4ucG5nJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2hvdmVyX2ltYWdlJyA9PiAnL2ltYWdlcy9nYW1lY2FyZF9sb3R0ZXJ5X0JCSU5fb24ucG5nJywKLy8gICAgICAgICAgICAgICAgICAgICAgICBdLA==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAyICAgID0+IFsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cycgICAgICA9PiAxLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgID0+ICdLVU1BJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2ltYWdlJyAgICAgICA9PiAnL2ltYWdlcy9nYW1lY2FyZF9sb3R0ZXJ5X01HLnBuZycsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICdob3Zlcl9pbWFnZScgPT4gJy9pbWFnZXMvZ2FtZWNhcmRfbG90dGVyeV9NR19vbi5wbmcnLAovLyAgICAgICAgICAgICAgICAgICAgICAgIF0s</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAndDInID0+IFsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cycgICAgICA9PiAxLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgID0+ICdEQ+W9qeelqCcsCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpbWFnZScgICAgICAgPT4gJy9pbWFnZXMvcGh5c2ljYWxfZWR1Y2F0aW9uX2ltc2IucG5nJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2hvdmVyX2ltYWdlJyA9PiAnL2ltYWdlcy9waHlzaWNhbF9lZHVjYXRpb25faW1zYl9vbi5wbmcnLAovLyAgICAgICAgICAgICAgICAgICAgICAgIF0s</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICA1OTQgID0+IFsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N0YXR1cycgICAgICA9PiAxLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbmFtZScgICAgICAgID0+ICdCQklO5L2T6IKyJywKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2ltYWdlJyAgICAgICA9PiAnL2ltYWdlcy9waHlzaWNhbF9lZHVjYXRpb25fYmJpbi5wbmcnLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAnaG92ZXJfaW1hZ2UnID0+ICcnLAovLyAgICAgICAgICAgICAgICAgICAgICAgIF0s</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>G</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
