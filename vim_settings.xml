@@ -12,11 +12,10 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/responsiblegaming.php" timestamp="1498475893532">
         <mark key="[" line="18" column="70" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Home.php" timestamp="1498631823371">
-        <mark key="[" line="1158" column="0" />
-        <mark key="]" line="1158" column="0" />
-        <mark key="^" line="1087" column="7" />
-        <mark key="." line="1158" column="0" />
+      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Home.php" timestamp="1498639318869">
+        <mark key="[" line="1655" column="66" />
+        <mark key="]" line="1620" column="0" />
+        <mark key="." line="1620" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/requirements.php" timestamp="1498475493626">
         <mark key="[" line="18" column="64" />
@@ -287,7 +286,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGhlbHBlcl91dGlsX2FsZXJ0X3dpdGhfdXJsKGxhbmcoJ3RpbWVvdXQnKSwgJy8nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -296,16 +295,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9oZWxwZXJfdXRpbF9hbGVydF93aXRoX3VybChsYW5nKCdwbGVhc2Vfc2V0dGluZ19iYW5rX2luZm8nKSwgJHRoaXMtPmNvbmZpZy0+aXRlbSgnb2NtX3BhdGgnKVsnYmFua3NldHRpbmcnXSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGhlbHBlcl91dGlsX2FsZXJ0X3dpdGhfdXJsKGxhbmcoJ2Vycm9yJyksICR0aGlzLT5jb25maWctPml0ZW0oJ29jbV9wYXRoJylbJ2hvbWUnXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
