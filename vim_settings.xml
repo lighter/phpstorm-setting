@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/responsiblegaming.php" timestamp="1498475893532">
         <mark key="[" line="18" column="70" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Home.php" timestamp="1498707726911">
+      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Home.php" timestamp="1498802464025">
         <mark key="[" line="589" column="0" />
         <mark key="]" line="589" column="0" />
         <mark key="." line="589" column="0" />
@@ -135,6 +135,9 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/favorite.php" timestamp="1498529571036">
         <mark key="[" line="19" column="80" />
       </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/views/pages/m/gamelistdemogame.php" timestamp="1498802905677">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/responsiblegaming.php" timestamp="1498466066945">
         <mark key="[" line="18" column="74" />
       </file>
@@ -195,6 +198,11 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/common/d/footer.php" timestamp="1498467252924">
         <mark key="[" line="86" column="26" />
       </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/views/pages/gamelistdemogame.php" timestamp="1498802934778">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/promotionsrule.php" timestamp="1498467545220">
         <mark key="[" line="2" column="66" />
       </file>
@@ -207,8 +215,14 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/requirements.php" timestamp="1498467411806">
         <mark key="[" line="16" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498703930245">
+      <file name="/Dummy.txt" timestamp="1498802418949">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1498801630120">
+        <mark key="[" line="1734" column="47" />
+        <mark key="]" line="1734" column="46" />
+        <mark key="^" line="1734" column="46" />
+        <mark key="." line="1734" column="46" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/patronprotection.php" timestamp="1498529637021">
         <mark key="[" line="13" column="69" />
@@ -309,37 +323,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+aGVscGVyKCdteV9sYW5ndWFnZScpOwo=</text>
+        <text encoding="base64">ICAgIGluY2x1ZGUoJHZpZXdfcGF0aCAuIGJhc2VuYW1lKF9fRklMRV9fKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHZpZXctPnJlbmRlcigpOwo=</text>
+        <text encoding="base64">aWYgKGZpbGVfZXhpc3RzKCR2aWV3X3BhdGggLiBiYXNlbmFtZShfX0ZJTEVfXykpKSB7CiAgICBpbmNsdWRlKCR2aWV3X3BhdGggLiBiYXNlbmFtZShfX0ZJTEVfXykpOwp9Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHZpZXctPnJlbmRlcigpOwo=</text>
+        <text encoding="base64">aWYgKGZpbGVfZXhpc3RzKCR2aWV3X3BhdGggLiBiYXNlbmFtZShfX0ZJTEVfXykpKSB7CiAgICBpbmNsdWRlKCR2aWV3X3BhdGggLiBiYXNlbmFtZShfX0ZJTEVfXykpOwp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdmlldyA9IFxWaWV3OjptYWtlKCdtZW51L2luZGV4JywgWyduYW1lJyA9PiAndGVzdCddKTsK</text>
+        <text encoding="base64">aW5jbHVkZSgkdmlld19wYXRoIC4gYmFzZW5hbWUoX19GSUxFX18pKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">L2xpPmRkZGQK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHZpZXctPnJlbmRlcigpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGxpPgogICAgPHVsPmFkZCBzaXRlPC91bD4KPA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkdmlldyA9IFxWaWV3OjptYWtlKCdtZW51L2luZGV4JywgWyduYW1lJyA9PiAndGVzdCddKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YGRkYAo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L2xpPmRkZGQK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgIEB5aWVsZCgnY29udGVudCcpCjwvZGl2Pgo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGxpPgogICAgPHVsPmFkZCBzaXRlPC91bD4KPA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGRkYAo=</text>
       </register>
       <register name="-" type="4">
         <text>extendves</text>
