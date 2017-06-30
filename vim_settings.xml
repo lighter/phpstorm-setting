@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/layouts/main.blade.php" timestamp="1498789766639">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/layouts/main.blade.php" timestamp="1498791205169">
         <mark key="'" line="2" column="16" />
-        <mark key="[" line="2" column="11" />
+        <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
@@ -219,6 +219,9 @@
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/favorite.php" timestamp="1498467401846">
         <mark key="[" line="17" column="72" />
+      </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/webpack.mix.js" timestamp="1498791229144">
+        <mark key="[" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/faq.php" timestamp="1498475878127">
         <mark key="[" line="18" column="63" />
