@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/layouts/main.blade.php" timestamp="1498791205169">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/layouts/main.blade.php" timestamp="1498792614851">
         <mark key="'" line="2" column="16" />
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="16" />
       </file>
       <file name="/fragment.js" timestamp="1498560257493">
         <mark key="[" line="0" column="0" />
@@ -57,6 +57,11 @@
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/partnerships.php" timestamp="1498475510741">
         <mark key="[" line="19" column="61" />
+      </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1498792932828">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/news.php" timestamp="1498475267348">
         <mark key="[" line="15" column="60" />
@@ -223,6 +228,12 @@
       <file name="$USER_HOME$/work/menu_list/menu_tool/webpack.mix.js" timestamp="1498791229144">
         <mark key="[" line="14" column="56" />
       </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/layouts/sidebar.blade.php" timestamp="1498792695208">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/faq.php" timestamp="1498475878127">
         <mark key="[" line="18" column="63" />
       </file>
@@ -247,11 +258,11 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/news.php" timestamp="1498529514628">
         <mark key="[" line="16" column="60" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/index.blade.php" timestamp="1498790226903">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/index.blade.php" timestamp="1498792725584">
         <mark key="[" line="2" column="14" />
-        <mark key="]" line="0" column="21" />
-        <mark key="." line="0" column="21" />
-        <mark key="^" line="0" column="21" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/mobilecasino.php" timestamp="1498474556096">
         <mark key="[" line="54" column="104" />
@@ -301,37 +312,37 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZC0+aGVscGVyKCdteV9sYW5ndWFnZScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHZpZXctPnJlbmRlcigpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>應用程式名稱</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHZpZXctPnJlbmRlcigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHNob3cK</text>
+        <text encoding="base64">ICAgICAgICAkdmlldyA9IFxWaWV3OjptYWtlKCdtZW51L2luZGV4JywgWyduYW1lJyA9PiAndGVzdCddKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIOmAmeaYr+S4u+imgeeahOWBtOmCiuashOOAggo=</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QHNlY3Rpb24oJ3NpZGViYXInKQo=</text>
+        <text encoding="base64">L2xpPmRkZGQK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PGgxPjEyMzwvaDE+Cgo8P3BocCBlY2hvICRuYW1lOyA/Pg==</text>
+        <text encoding="base64">PGxpPgogICAgPHVsPmFkZCBzaXRlPC91bD4KPA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9oZWxwZXJfdXRpbF9hbGVydF93aXRoX3VybCgnVGltZW91dCcsICcvJyk7Cg==</text>
+        <text encoding="base64">YGRkYAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcG9zdEJlZm9yZSA9IHByaW50X3IoJF9QT1NULCBUUlVFKTsK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyIj4KICAgIEB5aWVsZCgnY29udGVudCcpCjwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>應用程式名稱</text>
+        <text>extendves</text>
       </register>
     </registers>
     <search>
