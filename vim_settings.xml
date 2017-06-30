@@ -234,14 +234,15 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/requirements.php" timestamp="1498467411806">
         <mark key="[" line="16" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498823013167">
+      <file name="/Dummy.txt" timestamp="1498824608762">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1498822779543">
-        <mark key="[" line="2995" column="0" />
-        <mark key="]" line="2995" column="0" />
-        <mark key="^" line="8532" column="49" />
-        <mark key="." line="2995" column="0" />
+      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1498825305286">
+        <mark key="'" line="8570" column="28" />
+        <mark key="[" line="8511" column="25" />
+        <mark key="]" line="8511" column="25" />
+        <mark key="^" line="8511" column="25" />
+        <mark key="." line="8511" column="25" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/views/pages/d/gamelistdemogame.php" timestamp="1498805567401" />
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/patronprotection.php" timestamp="1498529637021">
@@ -303,11 +304,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/html/js/sys_function.js" timestamp="1498823102294">
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/html/js/sys_function.js" timestamp="1498824601321">
         <mark key="[" line="109" column="112" />
-        <mark key="]" line="109" column="112" />
-        <mark key="^" line="109" column="112" />
-        <mark key="." line="109" column="112" />
+        <mark key="]" line="103" column="45" />
+        <mark key="^" line="103" column="45" />
+        <mark key="." line="103" column="45" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/mobilecasino.php" timestamp="1498474556096">
         <mark key="[" line="54" column="104" />
@@ -352,6 +353,7 @@
       <jump line="8612" column="26" filename="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" />
       <jump line="2" column="16" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/layouts/main.blade.php" />
       <jump line="185" column="28" filename="$USER_HOME$/work/ocm-frontend/application/helpers/view_helper.php" />
+      <jump line="8563" column="28" filename="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -360,8 +362,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpc19kZW1vJyAgICAgPT4gMSwK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdpc19kZW1vJyAgICAgPT4gMSwK</text>
+      <register name="&quot;" type="4">
+        <text>MW</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsaW5rJyAgICAgICAgICAgPT4gJy9ob21lL2dhbWVsaXN0ZGVtb2dhbWU/cGlkPTE0JywK</text>
@@ -388,7 +390,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGRpdl9zZWFyY2ggPSAkKCcjc2VhcmNoJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sys_game_ite</text>
+        <text>MW</text>
       </register>
     </registers>
     <search>
