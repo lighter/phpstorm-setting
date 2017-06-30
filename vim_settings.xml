@@ -19,7 +19,7 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/responsiblegaming.php" timestamp="1498475893532">
         <mark key="[" line="18" column="70" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Home.php" timestamp="1498802464025">
+      <file name="$USER_HOME$/work/ocm-frontend/application/controllers/Home.php" timestamp="1498804531116">
         <mark key="[" line="589" column="0" />
         <mark key="]" line="589" column="0" />
         <mark key="." line="589" column="0" />
@@ -135,11 +135,19 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/favorite.php" timestamp="1498529571036">
         <mark key="[" line="19" column="80" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/views/pages/m/gamelistdemogame.php" timestamp="1498802905677">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/views/pages/m/gamelistdemogame.php" timestamp="1498805945607">
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="61" column="13" />
+        <mark key="." line="61" column="13" />
+        <mark key="^" line="61" column="13" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/responsiblegaming.php" timestamp="1498466066945">
         <mark key="[" line="18" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/views/pages/m/gamelist.php" timestamp="1498805685606">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/mobilecasino.php" timestamp="1498465928661">
         <mark key="[" line="35" column="72" />
@@ -224,6 +232,7 @@
         <mark key="^" line="1734" column="46" />
         <mark key="." line="1734" column="46" />
       </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/views/pages/d/gamelistdemogame.php" timestamp="1498805567401" />
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/patronprotection.php" timestamp="1498529637021">
         <mark key="[" line="13" column="69" />
       </file>
@@ -326,37 +335,37 @@
         <text encoding="base64">ICAgIGluY2x1ZGUoJHZpZXdfcGF0aCAuIGJhc2VuYW1lKF9fRklMRV9fKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgKGZpbGVfZXhpc3RzKCR2aWV3X3BhdGggLiBiYXNlbmFtZShfX0ZJTEVfXykpKSB7CiAgICBpbmNsdWRlKCR2aWV3X3BhdGggLiBiYXNlbmFtZShfX0ZJTEVfXykpOwp9Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aWYgKGZpbGVfZXhpc3RzKCR2aWV3X3BhdGggLiBiYXNlbmFtZShfX0ZJTEVfXykpKSB7CiAgICBpbmNsdWRlKCR2aWV3X3BhdGggLiBiYXNlbmFtZShfX0ZJTEVfXykpOwp9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW5jbHVkZSgkdmlld19wYXRoIC4gYmFzZW5hbWUoX19GSUxFX18pKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>display: none;</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IDxkaXYgY2xhc3M9InRhYl9wYWdlIj4KICAgICAgICA8aW1nIHNyYz0iaHR0cDovL3d3dy5sb2MxMDguY29tL3dlYmVkaXQvZGVtb2dhbWVjYXJkLzEwMDEucG5nIiBhbHQ9IiI+CiAgICA8L2Rpdj4KCiAgICA8ZGl2IGNsYXNzPSJ0YWJfcGFnZSI+CiAgICAgICAgPGltZyBzcmM9Imh0dHA6Ly93d3cubG9jMTA4LmNvbS93ZWJlZGl0L2RlbW9nYW1lY2FyZC8xMDAxLnBuZyIgYWx0PSIiPgogICAgPC9kaXY+</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHZpZXctPnJlbmRlcigpOwo=</text>
+        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdmlldyA9IFxWaWV3OjptYWtlKCdtZW51L2luZGV4JywgWyduYW1lJyA9PiAndGVzdCddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">L2xpPmRkZGQK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CnZhcl9kdW1wKCRwYWdlcyk7CnZhcl9kdW1wKCRnYW1lX2xpc3RfZGF0YSk7</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGxpPgogICAgPHVsPmFkZCBzaXRlPC91bD4KPA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YGRkYAo=</text>
+        <text encoding="base64">JHBhZ2VzID0gJHBhZ2VfZGF0YVsnZ2FtZV9jYXRlZ29yeSddOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>extendves</text>
+        <text>display: none;</text>
       </register>
     </registers>
     <search>
