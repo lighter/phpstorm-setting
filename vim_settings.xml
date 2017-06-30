@@ -16,6 +16,13 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/transfer.php" timestamp="1498475955421">
         <mark key="[" line="24" column="59" />
       </file>
+      <file name="$USER_HOME$/work/ocm-frontend/application/helpers/view_helper.php" timestamp="1498815358864">
+        <mark key="'" line="187" column="28" />
+        <mark key="[" line="182" column="75" />
+        <mark key="]" line="182" column="73" />
+        <mark key="^" line="182" column="73" />
+        <mark key="." line="182" column="73" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/responsiblegaming.php" timestamp="1498475893532">
         <mark key="[" line="18" column="70" />
       </file>
@@ -211,9 +218,9 @@
         <mark key="[" line="86" column="26" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/views/pages/gamelistdemogame.php" timestamp="1498802934778">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/promotionsrule.php" timestamp="1498467545220">
         <mark key="[" line="2" column="66" />
@@ -333,6 +340,7 @@
       <jump line="15" column="72" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/termsconditions.php" />
       <jump line="8612" column="26" filename="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" />
       <jump line="2" column="16" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/layouts/main.blade.php" />
+      <jump line="185" column="28" filename="$USER_HOME$/work/ocm-frontend/application/helpers/view_helper.php" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -342,7 +350,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>h</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">JHBhZ2VzID0gJyc7Cg==</text>
@@ -369,7 +377,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGh0bWxfdGVtcGxhdGUgPQogICAgICAgICAgICAgICAgJyAgICAgICAgPGRpdiBjbGFzcz0iZ2FtZSI+XG4nICsKICAgICAgICAgICAgICAgICcgICAgICAgICAgICA8YSBocmVmPSJodHRwOi8vd3d3Lmtnc2xvdHMuY29tL2ZyZWVwbGF5Lz9nYW1lPVp6Rm5jVW96TlN0SGFHMXBlbU15V1d4SU9FSlNaejA5Ij5cbicgKwogICAgICAgICAgICAgICAgJyAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwaXRlbSI+XG4nICsKICAgICAgICAgICAgICAgICcgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InBib3giPjxpbWcgc3JjPSJodHRwOi8vd3d3LmxvYzEwOC5jb20vd2ViZWRpdC9kZW1vZ2FtZWNhcmQvMTAxMi5wbmciPjwvZGl2PlxuJyArCiAgICAgICAgICAgICAgICAnICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwdGFnIj48L2Rpdj5cbicgKwogICAgICAgICAgICAgICAgJyAgICAgICAgICAgICAgICAgICAgPHA+5oCn54ix6K+K55aX5a6kPC9wPlxuJyArCiAgICAgICAgICAgICAgICAnICAgICAgICAgICAgICAgIDwvZGl2PlxuJyArCiAgICAgICAgICAgICAgICAnICAgICAgICAgICAgPC9hPlxuJyArCiAgICAgICAgICAgICAgICAnICAgICAgICA8L2Rpdj4nOw==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>h</text>
       </register>
     </registers>
     <search>
