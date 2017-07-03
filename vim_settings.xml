@@ -34,11 +34,11 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/m/faq.php" timestamp="1498467617490">
         <mark key="[" line="14" column="61" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/site/new.blade.php" timestamp="1499075040469">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="55" column="119" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/site/new.blade.php" timestamp="1499077901283">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="17" column="14" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/privacypolicy.php" timestamp="1498529118658">
         <mark key="[" line="18" column="68" />
@@ -93,6 +93,11 @@
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/about.php" timestamp="1498475299973">
         <mark key="[" line="15" column="60" />
+      </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/new.blade.php" timestamp="1499077883878">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/responsiblegaming.php" timestamp="1498466066945">
         <mark key="[" line="18" column="74" />
@@ -156,11 +161,11 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/SiteController.php" timestamp="1499076073727">
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="64" column="19" />
-        <mark key="." line="64" column="19" />
-        <mark key="^" line="64" column="19" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/SiteController.php" timestamp="1499078119456">
+        <mark key="[" line="35" column="23" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
+        <mark key="^" line="38" column="37" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/d/faq.php" timestamp="1498475878127">
         <mark key="[" line="18" column="63" />
@@ -218,6 +223,14 @@
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/requirements.php" timestamp="1498529612945">
         <mark key="[" line="17" column="64" />
+      </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1499078083841">
+        <mark key="e" line="28" column="29" />
+        <mark key="'" line="50" column="32" />
+        <mark key="[" line="35" column="29" />
+        <mark key="]" line="35" column="32" />
+        <mark key="." line="35" column="32" />
+        <mark key="^" line="35" column="32" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070156_create_mobile_menu_level_1.php" timestamp="1499074569928">
         <mark key="[" line="8" column="41" />
@@ -389,11 +402,12 @@
         <mark key="^" line="16" column="40" />
         <mark key="." line="16" column="40" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/routes/web.php" timestamp="1499075508484">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="52" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/routes/web.php" timestamp="1499078053711">
+        <mark key="i" line="18" column="22" />
+        <mark key="[" line="19" column="45" />
+        <mark key="]" line="19" column="42" />
+        <mark key="^" line="19" column="42" />
+        <mark key="." line="19" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -405,51 +419,60 @@
       <jump line="8563" column="28" filename="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" />
       <jump line="19" column="49" filename="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070109_create_sites_table.php" />
       <jump line="12" column="4" filename="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070109_create_sites_table.php" />
+      <jump line="50" column="32" filename="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>menu</text>
+      </register>
+      <register name="-" type="4">
+        <text>menu</text>
+      </register>
+      <register name="/" type="4">
+        <text>site</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc2l0ZV9kYXRhKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc2l0ZV9kYXRhLT4pOwo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>pc_menu_lavel1</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgxPuaWsOWiniBNZW51IExldmVsIDE8L2gxPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGhpcy0+c2l0ZV9yZXBvc2l0b3J5LT5nZXRTaXRlQnlJZCgkc2l0ZV9pZCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2l0ZXMgPSBTaXRlczo6YWxsKCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eXBlCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJycK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BjX2xpbmsnID0+ICdyZXF1aXJlZCcsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgJGF0dHJpYnV0ZXMgPSBbCiAgICAgICAgJ3R5cGUnID0+IDEsCiAgICAgICAgJ3N0YXR1cycgPT4gMSwKICAgIF07</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3J5XE1vYmlsZU1lbnVMZXZlbDFSZXBvc2l0b3J5Owo=</text>
       </register>
-      <register name="-" type="4">
-        <text>pc_menu_lavel1</text>
+      <register name="5" type="2">
+        <text encoding="base64">dXNlIEFwcFxSZXBvc2l0b3J5XFBjTWVudUxldmVsMVJlZGRwb3NpdG9yeTsK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgcHJvdGVjdGVkICRzaXRlX3JlcG9zaXRvcnk7CiAgICBwcm90ZWN0ZWQgJHBjX21lbnVfbGV2ZWwxX3JlcG9zaXRvcnk7CiAgICBwcm90ZWN0ZWQgJG1vYmlsZV9tZW51X2xldmVsMV9yZXBvc2l0b3J5OwoKICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCAoU2l0ZVJlcG9zaXRvcnkgJHNpdGVfcmVwb3NpdG9yeSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgUGNNZW51TGV2ZWwxUmVwb3NpdG9yeSAkcGNfbWVudV9sZXZlbDFfcmVwb3NpdG9yeSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTW9iaWxlTWVudUxldmVsMVJlcG9zaXRvcnkgJG1vYmlsZV9tZW51X2xldmVsMV9yZXBvc2l0b3J5KQogICAgewogICAgICAgICR0aGlzLT5zaXRlX3JlcG9zaXRvcnkgPSAkc2l0ZV9yZXBvc2l0b3J5OwogICAgICAgICR0aGlzLT5wY19tZW51X2xldmVsMV9yZXBvc2l0b3J5ID0gJHBjX21lbnVfbGV2ZWwxX3JlcG9zaXRvcnk7CiAgICAgICAgJHRoaXMtPm1vYmlsZV9tZW51X2xldmVsMV9yZXBvc2l0b3J5ID0gJG1vYmlsZV9tZW51X2xldmVsMV9yZXBvc2l0b3J5OwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleCAoKQogICAgewogICAgICAgICRzaXRlcyA9ICR0aGlzLT5zaXRlX3JlcG9zaXRvcnktPmFsbFNpdGVzKCk7CiAgICAgICAgJHZpZXcgPSBcVmlldzo6bWFrZSgnc2l0ZS9pbmRleCcsIFsnc2l0ZXMnID0+ICRzaXRlc10pOwoKICAgICAgICByZXR1cm4gJHZpZXctPnJlbmRlcigpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBuZXcgKCkKICAgIHsKICAgICAgICAkdmlldyA9IFxWaWV3OjptYWtlKCdzaXRlL25ldycpOwoKICAgICAgICByZXR1cm4gJHZpZXctPnJlbmRlcigpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGUgKFJlcXVlc3QgJHJlcXVlc3QpCiAgICB7CiAgICAgICAgJGNyZWF0ZV9zaXRlX3Jlc3VsdCA9ICR0aGlzLT5zaXRlX3JlcG9zaXRvcnktPmNyZWF0ZVNpdGVzKCRyZXF1ZXN0KTsKCiAgICAgICAgaWYgKCRjcmVhdGVfc2l0ZV9yZXN1bHRbJ3N0YXR1cyddKSB7CiAgICAgICAgICAgICRzaXRlX2lkID0gJGNyZWF0ZV9zaXRlX3Jlc3VsdFsnaWQnXTsKCiAgICAgICAgICAgICRjcmVhdGVfcGNfbWVudV9sZXZlbDFfcmVzdWx0ID0gJHRoaXMtPnBjX21lbnVfbGV2ZWwxX3JlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC0+Y3JlYXRlUGNNZW51TGV2ZWwxKCRyZXF1ZXN0LCAkc2l0ZV9pZCk7CgogICAgICAgICAgICAkY3JlYXRlX21vYmlsZV9tZW51X2xldmVsMV9yZXN1bHQgPSAkdGhpcy0+bW9iaWxlX21lbnVfbGV2ZWwxX3JlcG9zaXRvcnkKICAgICAgICAgICAgICAgIC0+Y3JlYXRlTW9iaWxlTWVudUxldmVsMSgkcmVxdWVzdCwgJHNpdGVfaWQpOwoKICAgICAgICAgICAgdmFyX2R1bXAoJGNyZWF0ZV9wY19tZW51X2xldmVsMV9yZXN1bHQpOwogICAgICAgICAgICB2YXJfZHVtcCgkY3JlYXRlX21vYmlsZV9tZW51X2xldmVsMV9yZXN1bHQpOwogICAgICAgIH0KICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gc2hvdygkc2l0ZV9pZCA9ICcnKQogICAgewogICAgICAgICRzaXRlX2RhdGEgPSAkdGhpcy0+c2l0ZV9yZXBvc2l0b3J5LT5nZXRTaXRlQnlJZCgkc2l0ZV9pZCk7CgogICAgICAgIGVjaG8gJzxwcmU+JzsKICAgICAgICBwcmludF9yKCRzaXRlX2RhdGEpOwogICAgICAgIGVjaG8gJzwvcHJlPic7CgoKLy8gICAgICAgIGVjaG8gJHNpdGVfZGF0YS0+c2l0ZV9udW1iZXI7CgogICAgICAgIGVjaG8gJHNpdGVfZGF0YS0+cGNfbWVudV9sYXZlbDEtPmZpcnN0KCktPm5hbWU7CiAgICB9</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Um91dGU6OnJlc291cmNlKCdtZW51JywgJ01lbnVDb250cm9sbGVyJyk7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkc2l0ZV9kYXRhLT4pOwo=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>site</last-search>
+      <last-offset />
+      <last-pattern>site</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>site</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
