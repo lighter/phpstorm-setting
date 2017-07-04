@@ -353,11 +353,11 @@
         <mark key="^" line="2" column="36" />
         <mark key="." line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/edit_pc1.blade.php" timestamp="1499142674126">
-        <mark key="[" line="13" column="107" />
-        <mark key="]" line="13" column="137" />
-        <mark key="^" line="13" column="137" />
-        <mark key="." line="13" column="137" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/edit_pc1.blade.php" timestamp="1499143864542">
+        <mark key="[" line="28" column="103" />
+        <mark key="]" line="28" column="103" />
+        <mark key="^" line="28" column="103" />
+        <mark key="." line="28" column="103" />
       </file>
       <file name="/Dummy.txt" timestamp="1499141761838">
         <mark key="[" line="0" column="0" />
@@ -441,10 +441,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lang_key</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>lang_key</text>
       </register>
       <register name="/" type="4">
         <text>site</text>
