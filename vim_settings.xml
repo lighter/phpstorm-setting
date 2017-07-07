@@ -4,11 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/menu_list/menu_tool/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1499396069240" />
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile2.blade.php" timestamp="1499252966339">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/SiteRepository.php" timestamp="1499397766748">
         <mark key="[" line="32" column="50" />
         <mark key="]" line="32" column="11" />
@@ -117,11 +112,6 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu2.blade.php" timestamp="1499251104831">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070203_create_mobile_menu_level_2.php" timestamp="1499068829685">
         <mark key="[" line="9" column="44" />
@@ -279,12 +269,12 @@
         <mark key="." line="8" column="40" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/new_pc_menu1.blade.php" timestamp="1499236702725" />
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" timestamp="1499250505548">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" timestamp="1499401004332">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="63" column="39" />
-        <mark key="]" line="63" column="39" />
-        <mark key="." line="63" column="39" />
-        <mark key="^" line="61" column="15" />
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="^" line="4" column="31" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/site/index.blade.php" timestamp="1499139858620">
         <mark key="[" line="5" column="44" />
@@ -316,10 +306,11 @@
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1499252961149">
-        <mark key="[" line="45" column="147" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1499401023195">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/contactus.php" timestamp="1498466057359">
         <mark key="[" line="7" column="68" />
@@ -396,11 +387,11 @@
       <jump line="10" column="41" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc2.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ICRwY19tZW51XzJfZGF0YS0+cGNfbGV2ZWwxLT5zaXRlcyB9fWQK</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text>site</text>
