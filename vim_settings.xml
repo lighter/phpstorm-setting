@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile2.blade.php" timestamp="1499411388934">
-        <mark key="[" line="47" column="22" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile2.blade.php" timestamp="1499412733244">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/SiteRepository.php" timestamp="1499397766748">
         <mark key="[" line="32" column="50" />
@@ -92,7 +93,7 @@
         <mark key="^" line="81" column="76" />
         <mark key="." line="81" column="76" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc2.blade.php" timestamp="1499400206784">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc2.blade.php" timestamp="1499412321873">
         <mark key="e" line="10" column="41" />
         <mark key="'" line="10" column="41" />
         <mark key="[" line="7" column="107" />
@@ -117,7 +118,7 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu2.blade.php" timestamp="1499411365436">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu2.blade.php" timestamp="1499412531757">
         <mark key="'" line="4" column="26" />
         <mark key="[" line="15" column="53" />
         <mark key="]" line="15" column="53" />
@@ -192,14 +193,14 @@
         <mark key="." line="15" column="67" />
         <mark key="^" line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1499410917727">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1499412722162">
         <mark key="e" line="58" column="29" />
         <mark key="'" line="208" column="0" />
-        <mark key="[" line="328" column="35" />
-        <mark key="]" line="328" column="33" />
-        <mark key="^" line="328" column="33" />
-        <mark key="." line="328" column="33" />
-        <mark key="o" line="152" column="46" />
+        <mark key="[" line="367" column="12" />
+        <mark key="]" line="367" column="12" />
+        <mark key="^" line="367" column="12" />
+        <mark key="." line="367" column="12" />
+        <mark key="o" line="367" column="38" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070156_create_mobile_menu_level_1.php" timestamp="1499409842809">
         <mark key="[" line="28" column="40" />
@@ -249,7 +250,7 @@
         <mark key="^" line="70" column="52" />
         <mark key="." line="70" column="52" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070145_create_pc_menu_level_2.php" timestamp="1499398120633">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070145_create_pc_menu_level_2.php" timestamp="1499412495876">
         <mark key="[" line="24" column="41" />
         <mark key="]" line="24" column="52" />
         <mark key="." line="24" column="52" />
@@ -339,8 +340,8 @@
         <mark key="^" line="103" column="45" />
         <mark key="." line="103" column="45" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/MobileMenuLevel1Repository.php" timestamp="1499410714159">
-        <mark key="[" line="120" column="24" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/MobileMenuLevel1Repository.php" timestamp="1499412670774">
+        <mark key="[" line="128" column="5" />
         <mark key="]" line="107" column="23" />
         <mark key="." line="107" column="23" />
         <mark key="^" line="107" column="23" />
@@ -390,10 +391,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>site</text>
