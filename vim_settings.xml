@@ -3,7 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php" timestamp="1499396069240" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile2.blade.php" timestamp="1499411388934">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/SiteRepository.php" timestamp="1499397766748">
         <mark key="[" line="32" column="50" />
         <mark key="]" line="32" column="11" />
@@ -113,8 +117,15 @@
         <mark key="." line="2" column="16" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070203_create_mobile_menu_level_2.php" timestamp="1499068829685">
-        <mark key="[" line="9" column="44" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu2.blade.php" timestamp="1499411365436">
+        <mark key="'" line="4" column="26" />
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="53" />
+        <mark key="." line="15" column="53" />
+        <mark key="^" line="15" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070203_create_mobile_menu_level_2.php" timestamp="1499409877294">
+        <mark key="[" line="23" column="34" />
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
         <mark key="^" line="8" column="41" />
@@ -168,11 +179,11 @@
         <mark key="^" line="73" column="71" />
         <mark key="." line="73" column="71" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/MobileMenuLevel2Repository.php" timestamp="1499253254064">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="99" column="65" />
-        <mark key="." line="99" column="65" />
-        <mark key="^" line="99" column="65" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/MobileMenuLevel2Repository.php" timestamp="1499411472558">
+        <mark key="[" line="100" column="69" />
+        <mark key="]" line="92" column="23" />
+        <mark key="." line="92" column="23" />
+        <mark key="^" line="92" column="23" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/app/Model/PcMenuLevel2.php" timestamp="1499399793045">
         <mark key="'" line="18" column="0" />
@@ -181,20 +192,20 @@
         <mark key="." line="15" column="67" />
         <mark key="^" line="15" column="62" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1499398600848">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1499410917727">
         <mark key="e" line="58" column="29" />
-        <mark key="'" line="204" column="0" />
-        <mark key="[" line="282" column="25" />
-        <mark key="]" line="282" column="25" />
-        <mark key="^" line="281" column="28" />
-        <mark key="." line="282" column="25" />
+        <mark key="'" line="208" column="0" />
+        <mark key="[" line="328" column="35" />
+        <mark key="]" line="328" column="33" />
+        <mark key="^" line="328" column="33" />
+        <mark key="." line="328" column="33" />
         <mark key="o" line="152" column="46" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070156_create_mobile_menu_level_1.php" timestamp="1499140960704">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="35" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="8" column="41" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/database/migrations/2017_06_29_070156_create_mobile_menu_level_1.php" timestamp="1499409842809">
+        <mark key="[" line="28" column="40" />
+        <mark key="]" line="27" column="51" />
+        <mark key="." line="27" column="51" />
+        <mark key="^" line="27" column="51" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/edit_mobile2.blade.php" timestamp="1499237605890">
         <mark key="[" line="42" column="58" />
@@ -214,17 +225,17 @@
         <mark key="^" line="47" column="143" />
         <mark key="." line="47" column="143" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/new_pc_menu1.blade.php" timestamp="1499399852518">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/new_pc_menu1.blade.php" timestamp="1499410492608">
         <mark key="[" line="12" column="108" />
         <mark key="]" line="12" column="108" />
         <mark key="." line="12" column="108" />
         <mark key="^" line="12" column="108" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Model/MobileMenuLevel1.php" timestamp="1499228059480">
-        <mark key="[" line="25" column="69" />
-        <mark key="]" line="25" column="69" />
-        <mark key="^" line="25" column="64" />
-        <mark key="." line="25" column="69" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Model/MobileMenuLevel1.php" timestamp="1499410399123">
+        <mark key="[" line="20" column="58" />
+        <mark key="]" line="20" column="58" />
+        <mark key="^" line="20" column="51" />
+        <mark key="." line="20" column="58" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/views/pages/m/jackpotlist.php" timestamp="1498529581593">
         <mark key="[" line="14" column="58" />
@@ -268,13 +279,12 @@
         <mark key="^" line="8" column="40" />
         <mark key="." line="8" column="40" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/new_pc_menu1.blade.php" timestamp="1499236702725" />
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" timestamp="1499401004332">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" timestamp="1499410304353">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="^" line="4" column="31" />
+        <mark key="[" line="12" column="63" />
+        <mark key="]" line="12" column="63" />
+        <mark key="." line="12" column="63" />
+        <mark key="^" line="12" column="62" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/site/index.blade.php" timestamp="1499139858620">
         <mark key="[" line="5" column="44" />
@@ -306,11 +316,11 @@
         <mark key="^" line="9" column="53" />
         <mark key="." line="9" column="53" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1499401023195">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="5" column="33" />
-        <mark key="." line="5" column="33" />
-        <mark key="^" line="5" column="33" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1499410322098">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="71" column="139" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/contactus.php" timestamp="1498466057359">
         <mark key="[" line="7" column="68" />
@@ -318,19 +328,10 @@
         <mark key="^" line="7" column="69" />
         <mark key="." line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/index.blade.php" timestamp="1499396251782">
-        <mark key="'" line="0" column="0" />
-        <mark key="j" line="11" column="70" />
-        <mark key="[" line="5" column="12" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc1.blade.php" timestamp="1499410576099">
+        <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-        <mark key="^" line="25" column="101" />
-      </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc1.blade.php" timestamp="1499397107358">
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="36" column="49" />
-        <mark key="." line="36" column="49" />
-        <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-401/html/js/sys_function.js" timestamp="1499063245509">
         <mark key="[" line="109" column="128" />
@@ -338,11 +339,11 @@
         <mark key="^" line="103" column="45" />
         <mark key="." line="103" column="45" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/MobileMenuLevel1Repository.php" timestamp="1499253201789">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="53" column="66" />
-        <mark key="." line="53" column="66" />
-        <mark key="^" line="53" column="66" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/MobileMenuLevel1Repository.php" timestamp="1499410714159">
+        <mark key="[" line="120" column="24" />
+        <mark key="]" line="107" column="23" />
+        <mark key="." line="107" column="23" />
+        <mark key="^" line="107" column="23" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/mobilecasino.php" timestamp="1498474556096">
         <mark key="[" line="54" column="104" />
@@ -385,13 +386,14 @@
       <jump line="11" column="49" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc2.blade.php" />
       <jump line="9" column="16" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc2.blade.php" />
       <jump line="10" column="41" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc2.blade.php" />
+      <jump line="4" column="26" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu2.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>m</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>site</text>
@@ -400,31 +402,31 @@
         <text encoding="base64">ICAgICAgICBcRGVidWdiYXI6OmluZm8oJHBjX21lbnVfMl9kYXRhLT50b0FycmF5KCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ICRwY19tZW51XzJfZGF0YS0+cGNfbGV2ZWwxLT5zaXRlcyB9fWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD57eyAkcGNfbWVudV8yX2RhdGEtPnBjX2xldmVsMS0+c2l0ZXMgfX0gKHt7ICRwY19tZW51XzJfZGF0YS0+cGNfbGV2ZWwxLT5zaXRlX251bWJlciB9fSk8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ICRwY19tZW51XzJfZGF0YS0+cGNfbGV2ZWwxIH19Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHt7ICRzaXRlX2RhdGEgfX0KCiAgICA8YnI+CiAgICB7eyAkc2l0ZV93aXRoX21lbnUxIH19</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ICRwY19tZW51XzJfZGF0YS0+cGNfbGV2ZWwxIH19Cg==</text>
+        <text encoding="base64">ICAgIHt7ICRwY19tZW51XzEgZH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgZGQge3sgJHBjX21lbnVfMl9kYXRhIH19Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IG5hbWU9InNpdGUiIGlkPSJzaXRlIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCRzaXRlcyBhcyAkc2l0ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Int7ICRzaXRlLT5pZCB9fSI+e3sgJHNpdGUtPnNpdGVfbmFtZSB9fSAoe3sgJHNpdGUtPnNpdGVfbnVtYmVyIH19KTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0Pg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJwY19tZW51XzJfc29ydCI+TGluazwvbGFiZWw+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IG5hbWU9InNpdGUiIGlkPSJzaXRlIiBjbGFzcz0iZm9ybS1jb250cm9sIj4KICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCRzaXRlcyBhcyAkc2l0ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Int7ICRzaXRlLT5pZCB9fSI+e3sgJHNpdGUtPnNpdGVfbmFtZSB9fSAoe3sgJHNpdGUtPnNpdGVfbnVtYmVyIH19KTwvb3B0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgIDwvc2VsZWN0Pg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7ICRwY19tZW51XzJfZGF0YS0+cGNfbGV2ZWwxLT5zaXRlcyB9fWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD57eyAkcGNfbWVudV8yX2RhdGEtPnBjX2xldmVsMS0+c2l0ZXMgfX0gKHt7ICRwY19tZW51XzJfZGF0YS0+cGNfbGV2ZWwxLT5zaXRlX251bWJlciB9fSk8L3A+Cg==</text>
       </register>
     </registers>
     <search>
