@@ -6,7 +6,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -16,7 +15,6 @@
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>.</mask>
-      <mask>*.j</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
@@ -28,14 +26,16 @@
       <mask>*.o</mask>
       <mask>*.pn</mask>
       <mask>*.png</mask>
-      <mask>*.ph</mask>
       <mask>*.J</mask>
       <mask>*.JS</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.jss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
