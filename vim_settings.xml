@@ -16,6 +16,12 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/SiteRepository.php" timestamp="1500257246184">
+        <mark key="[" line="106" column="27" />
+        <mark key="]" line="106" column="28" />
+        <mark key="." line="106" column="28" />
+        <mark key="^" line="106" column="28" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-125/config/mobile_menu_config.json" timestamp="1499830519265">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,6 +67,12 @@
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-118/config/mobile_menu_config.json" timestamp="1499830435085">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1500257133055">
+        <mark key="[" line="388" column="4" />
+        <mark key="]" line="388" column="4" />
+        <mark key="^" line="400" column="64" />
+        <mark key="." line="388" column="4" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-119/config/pc_menu_config.json" timestamp="1499829623595">
         <mark key="[" line="168" column="4" />
@@ -131,6 +143,12 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-124/config/mobile_menu_config.json" timestamp="1499830506546">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/menu_list/menu_tool/routes/web.php" timestamp="1500257650234">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="30" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="70" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/privacypolicy.php" />
@@ -161,41 +179,45 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-117/config/mobile_menu_config.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>function () {
+    return view('welcome');
+}</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>site</text>
       </register>
       <register name="0" type="4">
-        <text />
+        <text>MenuController@index</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>function () {
+    return view('welcome');
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogZ2V0IHNpdGUgd2l0aCBmaXJzdCBwYywgbW9iaWxlIG1lbnUKICAgICAqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKiBAYXV0aG9yIHdpbGx5LmxhaTx3aWxseS5sYWlAYXN0cm9jb3JwLmNvbS50dz4KICAgICAqLw==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBnZXQgcGMsIG1vYmlsZSBjb25maWcKICAgICAqCiAgICAgKiBAcGFyYW0gUmVxdWVzdCAkcmVxdWVzdAogICAgICoKICAgICAqIEBhdXRob3Igd2lsbHkubGFpPHdpbGx5LmxhaUBhc3Ryb2NvcnAuY29tLnR3PgogICAgICov</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHNpdGVzLT5vcmRlckJ5Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAiMTEwIjogewogICAgImZlYXR1cmVkIjogewogICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9tL0hvbWVfRDAxLmpwZyIsCiAgICAgICJ0aXRsZV9pbWFnZSI6ICIvaW1hZ2VzL20vRmVhdHVyZWRfR2FtZXMtQTAxLmpwZyIsCiAgICAgICJ0eXBlIjogImNhdGVnb3J5IiwKICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgImxlZnRfaW1hZ2UiOiAiL2ltYWdlcy9tL0dlbmVyYWxfbWVudS1hMDMuanBnIiwKICAgICAgImxlZnRfdGl0bGUiOiAic2VhcmNoX2dhbWVzIiwKICAgICAgInBsYXRmb3JtcyI6IHsKICAgICAgICAiQWxsIjogewogICAgICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgICAgICJwZl9pZCI6ICJhbGwiLAogICAgICAgICAgInNlYXJjaFR5cGVEYXRhIjogIiIsCiAgICAgICAgICAidHlwZSI6ICJ0b3AiCiAgICAgICAgfSwKICAgICAgICAiQkJJTiI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAicGZfaWQiOiAiNCIsCiAgICAgICAgICAic2VhcmNoVHlwZURhdGEiOiAiIiwKICAgICAgICAgICJ0eXBlIjogInRvcCIKICAgICAgICB9LAogICAgICAgICJBRyI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAicGZfaWQiOiAiNSIsCiAgICAgICAgICAic2VhcmNoVHlwZURhdGEiOiAiIiwKICAgICAgICAgICJ0eXBlIjogInRvcCIKICAgICAgICB9LAogICAgICAgICJNRyI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiLTEiLAogICAgICAgICAgInBmX2lkIjogIjIiLAogICAgICAgICAgInNlYXJjaFR5cGVEYXRhIjogIiIsCiAgICAgICAgICAidHlwZSI6ICJ0b3AiCiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgIkJCSU4iOiB7CiAgICAgICJpbWFnZSI6ICIvaW1hZ2VzL20vSG9tZV9EMDIuanBnIiwKICAgICAgInRpdGxlX2ltYWdlIjogIiIsCiAgICAgICJ0eXBlIjogInBsYXRmb3JtIiwKICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgInBsYXRmb3JtcyI6IFtdCiAgICB9LAogICAgImxpdmVfZ2FtZXMiOiB7CiAgICAgICJpbWFnZSI6ICIvaW1hZ2VzL20vSG9tZV9EMDMuanBnIiwKICAgICAgInRpdGxlX2ltYWdlIjogIi9pbWFnZXMvbS9WaWRlby1BMDEuanBnIiwKICAgICAgInR5cGUiOiAiY2F0ZWdvcnkiLAogICAgICAic3RhdHVzIjogIjEiLAogICAgICAibGVmdF9pbWFnZSI6ICIvaW1hZ2VzL20vR2VuZXJhbF9tZW51LWEwNi5qcGciLAogICAgICAibGVmdF90aXRsZSI6ICJsaXZlX2dhbWVzIiwKICAgICAgInBsYXRmb3JtcyI6IHsKICAgICAgICAiQUciOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgInBmX2lkIjogIjUiLAogICAgICAgICAgInNlYXJjaFR5cGVEYXRhIjogIjMiLAogICAgICAgICAgInR5cGUiOiAidHlwZSIKICAgICAgICB9LAogICAgICAgICJNRyI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiLTEiLAogICAgICAgICAgInBmX2lkIjogIjIiLAogICAgICAgICAgInNlYXJjaFR5cGVEYXRhIjogIjMiLAogICAgICAgICAgInR5cGUiOiAidHlwZSIKICAgICAgICB9LAogICAgICAgICJCQklOIjogewogICAgICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgICAgICJwZl9pZCI6ICI0IiwKICAgICAgICAgICJzZWFyY2hUeXBlRGF0YSI6ICIzIiwKICAgICAgICAgICJ0eXBlIjogInR5cGUiCiAgICAgICAgfSwKICAgICAgICAiRUJFVCI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAicGZfaWQiOiAiOCIsCiAgICAgICAgICAic2VhcmNoVHlwZURhdGEiOiAiMyIsCiAgICAgICAgICAidHlwZSI6ICJ0eXBlIgogICAgICAgIH0sCiAgICAgICAgIkFMTEJFVCI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiLTEiLAogICAgICAgICAgInBmX2lkIjogIjEiLAogICAgICAgICAgInNlYXJjaFR5cGVEYXRhIjogIjMiLAogICAgICAgICAgInR5cGUiOiAidHlwZSIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICAiZWxlY3Ryb25pY19nYW1lcyI6IHsKICAgICAgImltYWdlIjogIi9pbWFnZXMvbS9Ib21lX0QwNC5qcGciLAogICAgICAidGl0bGVfaW1hZ2UiOiAiL2ltYWdlcy9tL1Nsb3RfTWFjaGluZV9Ub3VyLUEwMS5qcGciLAogICAgICAidHlwZSI6ICJjYXRlZ29yeSIsCiAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICJsZWZ0X2ltYWdlIjogIi9pbWFnZXMvbS9HZW5lcmFsX21lbnUtYTA3LmpwZyIsCiAgICAgICJsZWZ0X3RpdGxlIjogImVsZWN0cm9uaWNfZ2FtZXMiLAogICAgICAicGxhdGZvcm1zIjogewogICAgICAgICJBRyI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAicGZfaWQiOiAiNSIsCiAgICAgICAgICAic2VhcmNoVHlwZURhdGEiOiAiMyIsCiAgICAgICAgICAidHlwZSI6ICJ0eXBlIgogICAgICAgIH0sCiAgICAgICAgIk1HIjogewogICAgICAgICAgInN0YXR1cyI6ICItMSIsCiAgICAgICAgICAicGZfaWQiOiAiMiIsCiAgICAgICAgICAic2VhcmNoVHlwZURhdGEiOiAiMyIsCiAgICAgICAgICAidHlwZSI6ICJ0eXBlIgogICAgICAgIH0sCiAgICAgICAgIklNIjogewogICAgICAgICAgInN0YXR1cyI6ICItMSIsCiAgICAgICAgICAicGZfaWQiOiAiMTEiLAogICAgICAgICAgInNlYXJjaFR5cGVEYXRhIjogIjMiLAogICAgICAgICAgInR5cGUiOiAidHlwZSIKICAgICAgICB9LAogICAgICAgICJNVyI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiLTEiLAogICAgICAgICAgInBmX2lkIjogIjEyIiwKICAgICAgICAgICJzZWFyY2hUeXBlRGF0YSI6ICIzIiwKICAgICAgICAgICJ0eXBlIjogInR5cGUiCiAgICAgICAgfSwKICAgICAgICAiUEciOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgInBmX2lkIjogIjE1IiwKICAgICAgICAgICJzZWFyY2hUeXBlRGF0YSI6ICIyIiwKICAgICAgICAgICJ0eXBlIjogInR5cGUiCiAgICAgICAgfSwKICAgICAgICAiS0dBTUUiOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgInBmX2lkIjogIjE4IiwKICAgICAgICAgICJzZWFyY2hUeXBlRGF0YSI6ICIyIiwKICAgICAgICAgICJ0eXBlIjogInR5cGUiCiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgInNwb3J0c19nYW1lcyI6IHsKICAgICAgImltYWdlIjogIi9pbWFnZXMvbS9Ib21lX0QwNS5qcGciLAogICAgICAidGl0bGVfaW1hZ2UiOiAiL2ltYWdlcy9tL21vdmVtZW50LUEwMS5qcGciLAogICAgICAidHlwZSI6ICJjYXRlZ29yeSIsCiAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICJsZWZ0X2ltYWdlIjogIi9pbWFnZXMvbS9HZW5lcmFsX21lbnUtYTA1LmpwZyIsCiAgICAgICJsZWZ0X3RpdGxlIjogInNwb3J0c19nYW1lcyIsCiAgICAgICJwbGF0Zm9ybXMiOiB7CiAgICAgICAgIlNCIjogewogICAgICAgICAgInN0YXR1cyI6ICItMSIsCiAgICAgICAgICAicGZfaWQiOiAiNiIsCiAgICAgICAgICAic2VhcmNoVHlwZURhdGEiOiAiNSIsCiAgICAgICAgICAidHlwZSI6ICJ0eXBlIgogICAgICAgIH0sCiAgICAgICAgIklCRVQ3ODkiOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgInBmX2lkIjogIjMiLAogICAgICAgICAgInNlYXJjaFR5cGVEYXRhIjogIjUiLAogICAgICAgICAgInR5cGUiOiAidHlwZSIKICAgICAgICB9LAogICAgICAgICJCQklOIjogewogICAgICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgICAgICJwZl9pZCI6ICI0IiwKICAgICAgICAgICJzZWFyY2hUeXBlRGF0YSI6ICI1IiwKICAgICAgICAgICJ0eXBlIjogInR5cGUiCiAgICAgICAgfSwKICAgICAgICAiSU0iOiB7CiAgICAgICAgICAic3RhdHVzIjogIi0xIiwKICAgICAgICAgICJwZl9pZCI6ICIxMCIsCiAgICAgICAgICAic2VhcmNoVHlwZURhdGEiOiAiNSIsCiAgICAgICAgICAidHlwZSI6ICJ0eXBlIgogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgICJsb3R0ZXJ5X2dhbWVzIjogewogICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9tL0hvbWVfRDA2LmpwZyIsCiAgICAgICJ0aXRsZV9pbWFnZSI6ICIvaW1hZ2VzL20vTG90dGVyeV9nYW1lcy1BMDEuanBnIiwKICAgICAgInR5cGUiOiAiY2F0ZWdvcnkiLAogICAgICAic3RhdHVzIjogIjEiLAogICAgICAibGVmdF9pbWFnZSI6ICIvaW1hZ2VzL20vR2VuZXJhbF9tZW51LWEwNC5qcGciLAogICAgICAibGVmdF90aXRsZSI6ICJsb3R0ZXJ5X2dhbWVzIiwKICAgICAgInBsYXRmb3JtcyI6IHsKICAgICAgICAiQkJJTiI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAicGZfaWQiOiAiNCIsCiAgICAgICAgICAic2VhcmNoVHlwZURhdGEiOiAiOSIsCiAgICAgICAgICAidHlwZSI6ICJ0eXBlIgogICAgICAgIH0sCiAgICAgICAgIkFHIjogewogICAgICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgICAgICJwZl9pZCI6ICI1IiwKICAgICAgICAgICJzZWFyY2hUeXBlRGF0YSI6ICI5IiwKICAgICAgICAgICJ0eXBlIjogInR5cGUiCiAgICAgICAgfSwKICAgICAgICAiU0IiOiB7CiAgICAgICAgICAic3RhdHVzIjogIi0xIiwKICAgICAgICAgICJwZl9pZCI6ICI2IiwKICAgICAgICAgICJzZWFyY2hUeXBlRGF0YSI6ICI5IiwKICAgICAgICAgICJ0eXBlIjogInR5cGUiCiAgICAgICAgfSwKICAgICAgICAiREciOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgInBmX2lkIjogIjkiLAogICAgICAgICAgInNlYXJjaFR5cGVEYXRhIjogIjkiLAogICAgICAgICAgInR5cGUiOiAidHlwZSIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICAibW9iaWxlY2FzaW5vIjogewogICAgICAiaW1hZ2UiOiAiIiwKICAgICAgInRpdGxlX2ltYWdlIjogIiIsCiAgICAgICJ0eXBlIjogImFjdGl2aXRpZSIsCiAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICJsZWZ0X2ltYWdlIjogIi9pbWFnZXMvbS9HZW5lcmFsX21lbnUtYTA4LmpwZyIsCiAgICAgICJsZWZ0X3RpdGxlIjogIm1vYmlsZV9jYXNpbm8iLAogICAgICAicGxhdGZvcm1zIjogW10KICAgIH0sCiAgICAibmV3cyI6IHsKICAgICAgImltYWdlIjogIiIsCiAgICAgICJ0aXRsZV9pbWFnZSI6ICIiLAogICAgICAidHlwZSI6ICJhY3Rpdml0aWUiLAogICAgICAic3RhdHVzIjogIjEiLAogICAgICAibGVmdF9pbWFnZSI6ICIvaW1hZ2VzL20vR2VuZXJhbF9tZW51LWEwOS5qcGciLAogICAgICAibGVmdF90aXRsZSI6ICJuZXdzIiwKICAgICAgInBsYXRmb3JtcyI6IFtdCiAgICB9LAogICAgInByb21vdGlvbnMiOiB7CiAgICAgICJpbWFnZSI6ICIiLAogICAgICAidGl0bGVfaW1hZ2UiOiAiIiwKICAgICAgInR5cGUiOiAiYWN0aXZpdGllIiwKICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgImxlZnRfaW1hZ2UiOiAiL2ltYWdlcy9tL0dlbmVyYWxfbWVudS1hMTAuanBnIiwKICAgICAgImxlZnRfdGl0bGUiOiAicHJvbW90aW9ucyIsCiAgICAgICJwbGF0Zm9ybXMiOiBbXQogICAgfSwKICAgICJzdXBwb3J0IjogewogICAgICAiaW1hZ2UiOiAiIiwKICAgICAgInRpdGxlX2ltYWdlIjogIiIsCiAgICAgICJ0eXBlIjogImFjdGl2aXRpZSIsCiAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICJsZWZ0X2ltYWdlIjogIi9pbWFnZXMvbS9HZW5lcmFsX21lbnUtYTExLmpwZyIsCiAgICAgICJsZWZ0X3RpdGxlIjogInN1cHBvcnQiLAogICAgICAicGxhdGZvcm1zIjogW10KICAgIH0KICB9LA==</text>
+        <text encoding="base64">ZWxzZSB7CiAgICAgICAgICAgJHNpdGVzID0gJHNpdGVzLT5vcmRlckJ5KCdpZCcpIAogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+b3JkZXJCeSgnaWQnLCAnZGVzYycpO2RkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
