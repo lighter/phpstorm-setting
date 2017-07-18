@@ -153,11 +153,11 @@
       <file name="/fragment.php" timestamp="1500278138437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1500353136870">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1500375153146">
+        <mark key="[" line="5" column="85" />
+        <mark key="]" line="5" column="85" />
         <mark key="^" line="40" column="37" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="5" column="85" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-115/config/mobile_menu_config.json" timestamp="1499830349824">
         <mark key="[" line="0" column="0" />
@@ -227,11 +227,11 @@
       <jump line="39" column="138" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7ICRtb2JpbGVfbWVudV8xIH19Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>var myFormValidator =</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
