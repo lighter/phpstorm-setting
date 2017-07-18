@@ -33,7 +33,7 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-104/html/js/sys_function.js" timestamp="1499944103729">
         <mark key="[" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1500284116341">
+      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1500349155607">
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
@@ -153,11 +153,11 @@
       <file name="/fragment.php" timestamp="1500278138437">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1500284047648">
-        <mark key="[" line="7" column="63" />
-        <mark key="]" line="41" column="119" />
-        <mark key="^" line="41" column="37" />
-        <mark key="." line="41" column="119" />
+      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1500353136870">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-115/config/mobile_menu_config.json" timestamp="1499830349824">
         <mark key="[" line="0" column="0" />
@@ -227,8 +227,8 @@
       <jump line="39" column="138" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>var myFormValidator =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHt7ICRtb2JpbGVfbWVudV8xIH19Cg==</text>
       </register>
       <register name="-" type="4">
         <text>var myFormValidator =</text>
@@ -240,31 +240,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iPD9waHAgZWNobyBhc3NldCgnc3RvcmFnZS8nIC4gJG1vYmlsZV9tZW51XzEtPmhvdmVyX2ltYWdlKTs/PiI+Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHt7ICRtb2JpbGVfbWVudV8xIH19Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHlwZW9mIG15Rm9ybVZhbGlkYXRvcik7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgIHZhciBteUZvcm1WYWxpZGF0b3IgPSBudWxsOwoKdmsgICAgICAgIGNvbnNvbGUubG9nKG15Rm9ybVZhbGlkYXRvcik7CgogICAgICAgIGlmIChteUZvcm1WYWxpZGF0b3IgaW5zdGFuY2VvZiBPYmplY3QgPT09IHRydWUpIHsKICAgICAgICAgICAgbXlGb3JtVmFsaWRhdG9yLmRlc3Ryb3koKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">bGQK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICBpZiAobXlGb3JtVmFsaWRhdG9yLmRlc3Ryb3koKSAhPT0gbnVsbCkgewogICAgICAgICAgICBteUZvcm1WYWxpZGF0b3IuZGVzdHJveSgpOwogICAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGQgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB9ZGQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgaWYgKHR5cGVvZiBteUZvcm1WYWxpZGF0b3IgPT09ICdvYmplY3QnICYmIG15Rm9ybVZhbGlkYXRvciAhPT0gbnVsbCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygnMTIzJyk7</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgiLnN5c19wYXlfZm9ybSIpLnZhbGlkYXRlKCkucmVzZXRGb3JtKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgiLnN5c19wYXlfZm9ybSIpLnZhbGlkYXRlKCkucmVzZXRGb3JtKCk7Cg==</text>
       </register>
     </registers>
     <search>
