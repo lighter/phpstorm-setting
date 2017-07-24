@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/mobile_menu_config.json" timestamp="1499830081078">
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/mobile_menu_config.json" timestamp="1500863441316">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/application/helpers/view_helper.php" timestamp="1499762091325">
         <mark key="[" line="234" column="5" />
@@ -24,8 +26,10 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-121/config/mobile_menu_config.json" timestamp="1499830474573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-126/config/mobile_menu_config.json" timestamp="1499830530802">
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-126/config/mobile_menu_config.json" timestamp="1500864443858">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-114/config/mobile_menu_config.json" timestamp="1499830337178">
         <mark key="[" line="0" column="0" />
@@ -33,7 +37,6 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-104/html/js/sys_function.js" timestamp="1499944103729">
         <mark key="[" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/views/js/js_deposit.php" timestamp="1500450997399" />
       <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1500349155607">
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="0" />
@@ -45,11 +48,15 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-111/config/pc_menu_config.json" timestamp="1499829391993">
         <mark key="[" line="150" column="4" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-126/config/pc_menu_config.json" timestamp="1499829800744">
-        <mark key="[" line="156" column="4" />
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-126/config/pc_menu_config.json" timestamp="1500863903933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/mobile_menu_config.json" timestamp="1499830037979">
-        <mark key="[" line="251" column="4" />
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/mobile_menu_config.json" timestamp="1500862495156">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-111/config/mobile_menu_config.json" timestamp="1499830299359">
         <mark key="[" line="0" column="0" />
@@ -72,8 +79,10 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-123/config/mobile_menu_config.json" timestamp="1499830494507">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/mobile_menu_config.json" timestamp="1499830065892">
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/mobile_menu_config.json" timestamp="1500862676874">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/PcMenuLevel2Repository.php" timestamp="1500283208883">
         <mark key="[" line="167" column="0" />
@@ -84,21 +93,19 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-112/config/mobile_menu_config.json" timestamp="1499830313923">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-126/views/pages/d/paymentlist.php" timestamp="1500452960087" />
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-120/config/pc_menu_config.json" timestamp="1499829641142">
         <mark key="[" line="156" column="4" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-124/config/mobile_menu_config.json" timestamp="1499830506546">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" timestamp="1500862202214">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-113/config/mobile_menu_config.json" timestamp="1499830325895">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/ocm_siteconfig.php" timestamp="1500456835812">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="34" column="24" />
-        <mark key="." line="34" column="24" />
-        <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-125/config/mobile_menu_config.json" timestamp="1499830519265">
         <mark key="[" line="0" column="0" />
@@ -106,18 +113,15 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-121/config/pc_menu_config.json" timestamp="1499829658403">
         <mark key="[" line="156" column="4" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" timestamp="1500282238952">
-        <mark key="'" line="39" column="138" />
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="39" column="107" />
-        <mark key="." line="39" column="107" />
-        <mark key="^" line="39" column="36" />
-      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-114/config/pc_menu_config.json" timestamp="1499829513544">
         <mark key="[" line="156" column="4" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/pc_menu_config.json" timestamp="1499829213794">
-        <mark key="[" line="156" column="4" />
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/pc_menu_config.json" timestamp="1500862774309">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="7000" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc2.blade.php" timestamp="1500283680017">
         <mark key="[" line="35" column="33" />
@@ -140,8 +144,10 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-110/config/mobile_menu_config.json" timestamp="1499830276380">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/mobile_menu_config.json" timestamp="1499830483473">
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/mobile_menu_config.json" timestamp="1500863757936">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-118/config/mobile_menu_config.json" timestamp="1499830435085">
         <mark key="[" line="0" column="0" />
@@ -149,16 +155,25 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-115/config/pc_menu_config.json" timestamp="1499829542845">
         <mark key="[" line="162" column="4" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/pc_menu_config.json" timestamp="1499829710928">
-        <mark key="[" line="162" column="4" />
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/pc_menu_config.json" timestamp="1500863701656">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/pc_menu_config.json" timestamp="1499829231759">
-        <mark key="[" line="156" column="4" />
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/pc_menu_config.json" timestamp="1500863106719">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1500452911201">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1500457252762" />
+      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1500864621308" />
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/mobile_menu_config.json" timestamp="1500864642847">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/fragment.php" timestamp="1500278138437">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,6 +182,11 @@
         <mark key="]" line="5" column="85" />
         <mark key="^" line="40" column="37" />
         <mark key="." line="5" column="85" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/pc_menu_config.json" timestamp="1500864596586">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-115/config/mobile_menu_config.json" timestamp="1499830349824">
         <mark key="[" line="0" column="0" />
@@ -196,13 +216,6 @@
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-116/config/mobile_menu_config.json" timestamp="1499830360388">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/routes/web.php" timestamp="1500278006373">
-        <mark key="a" line="51" column="32" />
-        <mark key="[" line="53" column="10" />
-        <mark key="]" line="53" column="10" />
-        <mark key="." line="53" column="10" />
-        <mark key="^" line="53" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -234,13 +247,284 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-117/config/mobile_menu_config.json" />
       <jump line="29" column="49" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" />
       <jump line="39" column="138" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" />
+      <jump line="311" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" />
+      <jump line="250" column="4" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/mobile_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/mobile_menu_config.json" />
+      <jump line="251" column="3" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/mobile_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/mobile_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/pc_menu_config.json" />
+      <jump line="157" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/pc_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/pc_menu_config.json" />
+      <jump line="245" column="3" filename="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/mobile_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/mobile_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/pc_menu_config.json" />
+      <jump line="245" column="3" filename="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/mobile_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/mobile_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-126/config/pc_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-126/config/mobile_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/pc_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/mobile_menu_config.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>{
+  &quot;127&quot;: {
+    &quot;featured&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t01.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_02.png&quot;,
+      &quot;left_title&quot;: &quot;search_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;All&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;all&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        }
+      }
+    },
+    &quot;BBIN&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t02.png&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;platform&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;live_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t03.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_02.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_05.png&quot;,
+      &quot;left_title&quot;: &quot;live_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t04.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_03.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_06.png&quot;,
+      &quot;left_title&quot;: &quot;electronic_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;PG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;15&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;KGAME&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;18&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;sports_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t05.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_04.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_04.png&quot;,
+      &quot;left_title&quot;: &quot;sports_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;I789&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;3&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IMSB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;10&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t06.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_05.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_03.png&quot;,
+      &quot;left_title&quot;: &quot;lottery_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;DG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;9&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;GB&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;14&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;mobilecasino&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_07.png&quot;,
+      &quot;left_title&quot;: &quot;mobile_casino&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;news&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_08.png&quot;,
+      &quot;left_title&quot;: &quot;news&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_09.png&quot;,
+      &quot;left_title&quot;: &quot;promotions&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;support&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_10.png&quot;,
+      &quot;left_title&quot;: &quot;support&quot;,
+      &quot;platforms&quot;: []
+    }
+  }
+}</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -248,32 +532,1819 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iPD9waHAgZWNobyBhc3NldCgnc3RvcmFnZS8nIC4gJG1vYmlsZV9tZW51XzEtPmhvdmVyX2ltYWdlKTs/PiI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+  &quot;127&quot;: {
+    &quot;featured&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t01.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_02.png&quot;,
+      &quot;left_title&quot;: &quot;search_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;All&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;all&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        }
+      }
+    },
+    &quot;BBIN&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t02.png&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;platform&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;live_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t03.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_02.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_05.png&quot;,
+      &quot;left_title&quot;: &quot;live_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t04.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_03.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_06.png&quot;,
+      &quot;left_title&quot;: &quot;electronic_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;PG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;15&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;KGAME&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;18&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;sports_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t05.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_04.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_04.png&quot;,
+      &quot;left_title&quot;: &quot;sports_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;I789&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;3&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IMSB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;10&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t06.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_05.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_03.png&quot;,
+      &quot;left_title&quot;: &quot;lottery_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;DG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;9&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;GB&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;14&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;mobilecasino&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_07.png&quot;,
+      &quot;left_title&quot;: &quot;mobile_casino&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;news&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_08.png&quot;,
+      &quot;left_title&quot;: &quot;news&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_09.png&quot;,
+      &quot;left_title&quot;: &quot;promotions&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;support&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_10.png&quot;,
+      &quot;left_title&quot;: &quot;support&quot;,
+      &quot;platforms&quot;: []
+    }
+  }
+}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+  &quot;127&quot;: {
+    &quot;live_games&quot;: {
+      &quot;name&quot;: &quot;真人遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: {
+        &quot;844&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_allbet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_allbet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;636&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;8&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_m.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_m_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1020&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ebet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ebet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;name&quot;: &quot;電子遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;2&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mg.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mg_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=2&quot;
+        },
+        &quot;5&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=5&quot;
+        },
+        &quot;11&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=11&quot;
+        },
+        &quot;12&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mw.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mw_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=12&quot;
+        },
+        &quot;15&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_PG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_PG_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=15&quot;
+        },
+        &quot;18&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_KGAME.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_KGAME_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=18&quot;
+        }
+      }
+    },
+    &quot;fish_games&quot;: {
+      &quot;name&quot;: &quot;捕魚王&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;cockfighting&quot;: {
+      &quot;name&quot;: &quot;鬥雞&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;sports_games&quot;: {
+      &quot;name&quot;: &quot;體育投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;564&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_i789.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_i789_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;594&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1872&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;name&quot;: &quot;彩票投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;603&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1029&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_DG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_DG_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;2386&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_GB.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_GB_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=14&quot;
+        }
+      }
+    },
+    &quot;game_BBIN&quot;: {
+      &quot;name&quot;: &quot;BBIN&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;name&quot;: &quot;優惠活動&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    }
+  }
+}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjtkZAo=</text>
+      <register name="3" type="4">
+        <text>{
+  &quot;126&quot;: {
+    &quot;featured&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t01.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_02.png&quot;,
+      &quot;left_title&quot;: &quot;search_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;All&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;all&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        }
+      }
+    },
+    &quot;BBIN&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t02.png&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;platform&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;live_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t03.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_02.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_05.png&quot;,
+      &quot;left_title&quot;: &quot;live_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t04.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_03.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_06.png&quot;,
+      &quot;left_title&quot;: &quot;electronic_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;PG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;15&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;KGAME&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;18&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;sports_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t05.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_04.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_04.png&quot;,
+      &quot;left_title&quot;: &quot;sports_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;I789&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;3&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IMSB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;10&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;image&quot;: &quot;/images/m2/gamecard_t06.png&quot;,
+      &quot;title_image&quot;: &quot;/images/m2/top_banner_05.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_03.png&quot;,
+      &quot;left_title&quot;: &quot;lottery_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;DG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;9&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;GB&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;14&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;mobilecasino&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_07.png&quot;,
+      &quot;left_title&quot;: &quot;mobile_casino&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;news&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_08.png&quot;,
+      &quot;left_title&quot;: &quot;news&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_09.png&quot;,
+      &quot;left_title&quot;: &quot;promotions&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;support&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m2/list_icon_10.png&quot;,
+      &quot;left_title&quot;: &quot;support&quot;,
+      &quot;platforms&quot;: []
+    }
+  }
+}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHt7ICRtb2JpbGVfbWVudV8xIH19Cg==</text>
+      <register name="4" type="4">
+        <text>{
+  &quot;126&quot;: {
+    &quot;live_games&quot;: {
+      &quot;name&quot;: &quot;真人遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: {
+        &quot;844&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_allbet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_allbet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;636&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;8&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_m.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_m_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1020&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ebet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ebet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;name&quot;: &quot;電子遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;2&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mg.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mg_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=2&quot;
+        },
+        &quot;5&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=5&quot;
+        },
+        &quot;11&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=11&quot;
+        },
+        &quot;12&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mw.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mw_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=12&quot;
+        },
+        &quot;15&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_PG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_PG_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=15&quot;
+        },
+        &quot;18&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_KGAME.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_KGAME_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=18&quot;
+        }
+      }
+    },
+    &quot;fish_games&quot;: {
+      &quot;name&quot;: &quot;捕魚王&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;cockfighting&quot;: {
+      &quot;name&quot;: &quot;鬥雞&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;sports_games&quot;: {
+      &quot;name&quot;: &quot;體育投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;564&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_i789.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_i789_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;594&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1872&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;name&quot;: &quot;彩票投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;603&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1029&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_DG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_DG_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;2386&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_GB.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_GB_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=14&quot;
+        }
+      }
+    },
+    &quot;game_BBIN&quot;: {
+      &quot;name&quot;: &quot;BBIN&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;name&quot;: &quot;優惠活動&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    }
+  }
+}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHlwZW9mIG15Rm9ybVZhbGlkYXRvcik7Cg==</text>
+      <register name="5" type="4">
+        <text>{
+  &quot;122&quot;: {
+    &quot;featured&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D01.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/Featured_Games-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a03.jpg&quot;,
+      &quot;left_title&quot;: &quot;search_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;All&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;all&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        }
+      }
+    },
+    &quot;bbin&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D02.jpg&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;platform&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;live_games&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D03.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/Video-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a06.jpg&quot;,
+      &quot;left_title&quot;: &quot;live_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D04.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/Slot_Machine_Tour-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a07.jpg&quot;,
+      &quot;left_title&quot;: &quot;electronic_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;PG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;15&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;KGAME&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;18&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;sports_games&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D05.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/movement-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a05.jpg&quot;,
+      &quot;left_title&quot;: &quot;sports_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;I789&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;3&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IMSB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;10&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D06.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/Lottery_games-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a04.jpg&quot;,
+      &quot;left_title&quot;: &quot;lottery_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;DG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;9&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;GB&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;14&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;mobilecasino&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a08.jpg&quot;,
+      &quot;left_title&quot;: &quot;mobile_casino&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;news&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a09.jpg&quot;,
+      &quot;left_title&quot;: &quot;news&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a10.jpg&quot;,
+      &quot;left_title&quot;: &quot;promotions&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;support&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a11.jpg&quot;,
+      &quot;left_title&quot;: &quot;support&quot;,
+      &quot;platforms&quot;: []
+    }
+  }
+}</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgIHZhciBteUZvcm1WYWxpZGF0b3IgPSBudWxsOwoKdmsgICAgICAgIGNvbnNvbGUubG9nKG15Rm9ybVZhbGlkYXRvcik7CgogICAgICAgIGlmIChteUZvcm1WYWxpZGF0b3IgaW5zdGFuY2VvZiBPYmplY3QgPT09IHRydWUpIHsKICAgICAgICAgICAgbXlGb3JtVmFsaWRhdG9yLmRlc3Ryb3koKTsKICAgICAgICB9Cg==</text>
+        <text>{
+  &quot;122&quot;: {
+    &quot;live_games&quot;: {
+      &quot;name&quot;: &quot;真人遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: {
+        &quot;844&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_allbet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_allbet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;636&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;8&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_m.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_m_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1020&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ebet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ebet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;name&quot;: &quot;電子遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;2&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mg.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mg_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=2&quot;
+        },
+        &quot;5&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=5&quot;
+        },
+        &quot;7&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_pt.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_pt_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=7&quot;
+        },
+        &quot;11&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=11&quot;
+        },
+        &quot;12&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mw.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mw_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=12&quot;
+        },
+        &quot;15&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_PG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_PG_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=15&quot;
+        },
+        &quot;18&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_KGAME.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_KGAME_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=18&quot;
+        }
+      }
+    },
+    &quot;fish_games&quot;: {
+      &quot;name&quot;: &quot;捕魚王&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;cockfighting&quot;: {
+      &quot;name&quot;: &quot;鬥雞&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;sports_games&quot;: {
+      &quot;name&quot;: &quot;體育投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;564&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_i789.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_i789_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;594&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1872&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;name&quot;: &quot;彩票投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;603&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1029&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_DG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_DG_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;2386&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_GB.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_GB_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=14&quot;
+        }
+      }
+    },
+    &quot;game_BBIN&quot;: {
+      &quot;name&quot;: &quot;BBIN&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;name&quot;: &quot;優惠活動&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    }
+  }
+}</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bGQK</text>
+      <register name="7" type="4">
+        <text>{
+  &quot;108&quot;: {
+    &quot;featured&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D01.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/Featured_Games-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a03.jpg&quot;,
+      &quot;left_title&quot;: &quot;search_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;All&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;all&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;&quot;,
+          &quot;type&quot;: &quot;top&quot;
+        }
+      }
+    },
+    &quot;BBIN&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D02.jpg&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;platform&quot;,
+      &quot;status&quot;: &quot;0&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;live_games&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D03.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/Video-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a06.jpg&quot;,
+      &quot;left_title&quot;: &quot;live_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;EBET&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;8&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;3&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D04.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/Slot_Machine_Tour-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a07.jpg&quot;,
+      &quot;left_title&quot;: &quot;electronic_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;PT&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;7&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IM&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;11&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;MG&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;2&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;PG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;15&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;KGAME&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;18&quot;,
+          &quot;searchTypeData&quot;: &quot;2&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;sports_games&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D05.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/movement-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a05.jpg&quot;,
+      &quot;left_title&quot;: &quot;sports_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;I789&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;3&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;IMSB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;10&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;5&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;image&quot;: &quot;/images/m/Home_D06.jpg&quot;,
+      &quot;title_image&quot;: &quot;/images/m/Lottery_games-A01.jpg&quot;,
+      &quot;type&quot;: &quot;category&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a04.jpg&quot;,
+      &quot;left_title&quot;: &quot;lottery_games&quot;,
+      &quot;platforms&quot;: {
+        &quot;DG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;9&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;BBIN&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;4&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;AG&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;pf_id&quot;: &quot;5&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        },
+        &quot;SB&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;pf_id&quot;: &quot;6&quot;,
+          &quot;searchTypeData&quot;: &quot;9&quot;,
+          &quot;type&quot;: &quot;type&quot;
+        }
+      }
+    },
+    &quot;mobilecasino&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a08.jpg&quot;,
+      &quot;left_title&quot;: &quot;mobile_casino&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;news&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a09.jpg&quot;,
+      &quot;left_title&quot;: &quot;news&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a10.jpg&quot;,
+      &quot;left_title&quot;: &quot;promotions&quot;,
+      &quot;platforms&quot;: []
+    },
+    &quot;support&quot;: {
+      &quot;image&quot;: &quot;&quot;,
+      &quot;title_image&quot;: &quot;&quot;,
+      &quot;type&quot;: &quot;activitie&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;left_image&quot;: &quot;/images/m/General_menu-a11.jpg&quot;,
+      &quot;left_title&quot;: &quot;support&quot;,
+      &quot;platforms&quot;: []
+    }
+  }
+}</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICBpZiAobXlGb3JtVmFsaWRhdG9yLmRlc3Ryb3koKSAhPT0gbnVsbCkgewogICAgICAgICAgICBteUZvcm1WYWxpZGF0b3IuZGVzdHJveSgpOwogICAgICAgIH0=</text>
+        <text>{
+  &quot;108&quot;: {
+    &quot;live_games&quot;: {
+      &quot;name&quot;: &quot;真人遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: {
+        &quot;884&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_allbet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_allbet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;636&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;8&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_m.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_m_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1020&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ebet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ebet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;name&quot;: &quot;電子遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;2&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mg.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mg_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=2&quot;
+        },
+        &quot;5&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=5&quot;
+        },
+        &quot;11&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=11&quot;
+        },
+        &quot;12&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mw.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mw_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=12&quot;
+        },
+        &quot;15&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_PG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_PG_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=15&quot;
+        },
+        &quot;18&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_KGAME.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_KGAME_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=18&quot;
+        }
+      }
+    },
+    &quot;fish_games&quot;: {
+      &quot;name&quot;: &quot;捕魚王&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;cockfighting&quot;: {
+      &quot;name&quot;: &quot;鬥雞&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;sports_games&quot;: {
+      &quot;name&quot;: &quot;體育投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;999&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_ONEworks.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/ggamecard_sport_ONEworks_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;594&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_i798.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_i798_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;564&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;name&quot;: &quot;彩票投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;603&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1002&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;images/gamecard_lottery_ONEworks.jpg&quot;,
+          &quot;hover_image&quot;: &quot;images/gamecard_lottery_ONEworks_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1029&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_DG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_DG_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;game_BBIN&quot;: {
+      &quot;name&quot;: &quot;BBIN&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;name&quot;: &quot;優惠活動&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    }
+  }
+}</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGQgCg==</text>
+      <register name="9" type="4">
+        <text>{
+  &quot;107&quot;: {
+    &quot;live_games&quot;: {
+      &quot;name&quot;: &quot;真人遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: {
+        &quot;844&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_allbet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_allbet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;636&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;8&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_m.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_m_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1020&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ebet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ebet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;name&quot;: &quot;電子遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;2&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mg.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mg_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=2&quot;
+        },
+        &quot;5&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=5&quot;
+        },
+        &quot;11&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=11&quot;
+        },
+        &quot;12&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mw.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mw_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=12&quot;
+        },
+        &quot;15&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_PG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_PG_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=15&quot;
+        },
+        &quot;18&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_KGAME.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_KGAME_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=18&quot;
+        }
+      }
+    },
+    &quot;fish_games&quot;: {
+      &quot;name&quot;: &quot;捕魚王&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;cockfighting&quot;: {
+      &quot;name&quot;: &quot;鬥雞&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;sports_games&quot;: {
+      &quot;name&quot;: &quot;體育投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;564&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_i789.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_i789_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;594&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1872&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;name&quot;: &quot;彩票投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;603&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1029&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_DG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_DG_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;2386&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_GB.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_GB_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=14&quot;
+        }
+      }
+    },
+    &quot;game_BBIN&quot;: {
+      &quot;name&quot;: &quot;BBIN&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;name&quot;: &quot;優惠活動&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    }
+  }
+{ &quot; 1 07&quot;:{&quot;l ive_ game s &quot; :{&quot;n ame&quot;:&quot;真人遊戲&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verti cle&quot;:&quot;1&quot;,&quot;games&quot;:{&quot;844&quot;:{&quot;status&quot;: &quot;1 &quot; ,&quot;im age&quot;:&quot;/images/gamecard_live_ag.jpg&quot; ,&quot;hover_image&quot;:&quot;/images/gamecard_live_ ag _ on.j pg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1&quot;:{&quot;status&quot;:&quot;1&quot;, &quot;image&quot;:&quot;/images/gamecard_live_allbe t. j pg&quot;,&quot; hover_image&quot;:&quot;/images/gamecard _live_allbet_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot; 63 6 &quot;:{&quot; status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/game card_live_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/ im a ges/gam ecar d_li v e _bbin _on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;8&quot;:{&quot;statu s&quot;:&quot;-1&quot;,&quot;image&quot;:&quot;/images/gamecard_ live_m.jpg&quot;,&quot;hover_image&quot;:&quot;/im a ges/ gamecard_live_m_on.jpg&quot;,&quot;link&quot;: &quot;&quot;},&quot;1020&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot; /images/gamecard_live_ebet.jpg &quot; ,&quot;ho ver_image&quot;:&quot;/images/gamecard_li ve_ebet_on.jpg&quot;,&quot;link&quot;:&quot;&quot;}}},&quot;elec tronic_games&quot;:{&quot;name&quot;:&quot;電子遊戲&quot;,&quot;s t atus &quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot; 2&quot;:{&quot;status&quot;:&quot;-1&quot;,&quot;image&quot;:&quot;/images /gamecard_slot_mg.jpg&quot;,&quot;hover_i m age&quot; :&quot;/images/gamecard_slot_mg_on.j pg&quot;,&quot;link&quot;:&quot;/home/gamelistplatform ?pid=2&quot;},&quot;5&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;ima g e&quot;:&quot; /images/gamecard_slot_ag.jpg&quot;,&quot;hov er_image&quot;:&quot;/images/gamecard_slot_ag_o n.jpg&quot;,&quot;link&quot;:&quot;/home/gamelistpl a tform? pid= 5&quot;}, &quot;1 1 &quot;:{&quot;s tatu s&quot;:&quot; 1&quot; , &quot;image&quot; :&quot;/i mage s / game card_slot_im.jpg&quot;,&quot;hover_image&quot;:&quot;/ images/gamecard_slot_im_on.jpg&quot;,&quot;link &quot;: &quot; /hom e/gamelistplatform?pid=11&quot;},&quot;12&quot;:{ &quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecar d_ s lot_ mw.jpg&quot;,&quot;hover_image&quot;:&quot;/images/g amecard_slot_mw_on.jpg&quot;,&quot;link&quot;:&quot;/ho me / gamelis tpla tfor m ? pid= 12&quot;},&quot;15&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/im ages/gamecard_slot_PG.jpg&quot;,&quot;hover_image &quot;: &quot; /ima ges/gamecard_slot_PG_on.jpg&quot;,&quot;link &quot;:&quot;/home/gamelistplatform?pid=15&quot;},&quot;1 8&quot; : {&quot;st atus&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecar d_slot_KGAME.jpg&quot;,&quot;hover_image&quot;:&quot;/ima ges/gamecard_slot_KGAME_on.jpg&quot; , &quot;link&quot;: &quot;/ho me/g am e listpla tfor m?pi d=gg{ &quot; 1 07&quot;:{&quot;l ive_ game s &quot; :{&quot;n ame&quot;:&quot;真人遊戲&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verti cle&quot;:&quot;1&quot;,&quot;games&quot;:{&quot;844&quot;:{&quot;status&quot;: &quot;1 &quot; ,&quot;im age&quot;:&quot;/images/gamecard_live_ag.jpg&quot; ,&quot;hover_image&quot;:&quot;/images/gamecard_live_ ag _ on.j pg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1&quot;:{&quot;status&quot;:&quot;1&quot;, &quot;image&quot;:&quot;/images/gamecard_live_allbe t. j pg&quot;,&quot; hover_image&quot;:&quot;/images/gamecard _live_allbet_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot; 63 6 &quot;:{&quot; status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/game card_live_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/ im a ges/gam ecar d_li v e _bbin _on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;8&quot;:{&quot;statu s&quot;:&quot;-1&quot;,&quot;image&quot;:&quot;/images/gamecard_ live_m.jpg&quot;,&quot;hover_image&quot;:&quot;/im a ges/ gamecard_live_m_on.jpg&quot;,&quot;link&quot;: &quot;&quot;},&quot;1020&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot; /images/gamecard_live_ebet.jpg &quot; ,&quot;ho ver_image&quot;:&quot;/images/gamecard_li ve_ebet_on.jpg&quot;,&quot;link&quot;:&quot;&quot;}}},&quot;elec tronic_games&quot;:{&quot;name&quot;:&quot;電子遊戲&quot;,&quot;s t atus &quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot; 2&quot;:{&quot;status&quot;:&quot;-1&quot;,&quot;image&quot;:&quot;/images /gamecard_slot_mg.jpg&quot;,&quot;hover_i m age&quot; :&quot;/images/gamecard_slot_mg_on.j pg&quot;,&quot;link&quot;:&quot;/home/gamelistplatform ?pid=2&quot;},&quot;5&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;ima g e&quot;:&quot; /images/gamecard_slot_ag.jpg&quot;,&quot;hov er_image&quot;:&quot;/images/gamecard_slot_ag_o n.jpg&quot;,&quot;link&quot;:&quot;/home/gamelistpl a tform? pid= 5&quot;}, &quot;1 1 &quot;:{&quot;s tatu s&quot;:&quot; 1&quot; , &quot;image&quot; :&quot;/i mage s / game card_slot_im.jpg&quot;,&quot;hover_image&quot;:&quot;/ images/gamecard_slot_im_on.jpg&quot;,&quot;link &quot;: &quot; /hom e/gamelistplatform?pid=11&quot;},&quot;12&quot;:{ &quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecar d_ s lot_ mw.jpg&quot;,&quot;hover_image&quot;:&quot;/images/g amecard_slot_mw_on.jpg&quot;,&quot;link&quot;:&quot;/ho me / gamelis tpla tfor m ? pid= 12&quot;},&quot;15&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/im ages/gamecard_slot_PG.jpg&quot;,&quot;hover_image &quot;: &quot; /ima ges/gamecard_slot_PG_on.jpg&quot;,&quot;link &quot;:&quot;/home/gamelistplatform?pid=15&quot;},&quot;1 8&quot; : {&quot;st atus&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecar d_slot_KGAME.jpg&quot;,&quot;hover_image&quot;:&quot;/ima ges/gamecard_slot_KGAME_on.jpg&quot; , &quot;link&quot;: &quot;/ho me/g am e listpla tfor m?pi d=gg{ &quot; 1 07&quot;:{&quot;l ive_ game s &quot; :{&quot;n ame&quot;:&quot;真人遊戲&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verti cle&quot;:&quot;1&quot;,&quot;games&quot;:{&quot;844&quot;:{&quot;status&quot;: &quot;1 &quot; ,&quot;im age&quot;:&quot;/images/gamecard_live_ag.jpg&quot; ,&quot;hover_image&quot;:&quot;/images/gamecard_live_ ag _ on.j pg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1&quot;:{&quot;status&quot;:&quot;1&quot;, &quot;image&quot;:&quot;/images/gamecard_live_allbe t. j pg&quot;,&quot; hover_image&quot;:&quot;/images/gamecard _live_allbet_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot; 63 6 &quot;:{&quot; status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/game card_live_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/ im a ges/gam ecar d_li v e _bbin _on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;8&quot;:{&quot;statu s&quot;:&quot;-1&quot;,&quot;image&quot;:&quot;/images/gamecard_ live_m.jpg&quot;,&quot;hover_image&quot;:&quot;/im a ges/ gamecard_live_m_on.jpg&quot;,&quot;link&quot;: &quot;&quot;},&quot;1020&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot; /images/gamecard_live_ebet.jpg &quot; ,&quot;ho ver_image&quot;:&quot;/images/gamecard_li ve_ebet_on.jpg&quot;,&quot;link&quot;:&quot;&quot;}}},&quot;elec tronic_games&quot;:{&quot;name&quot;:&quot;電子遊戲&quot;,&quot;s t atus &quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot; 2&quot;:{&quot;status&quot;:&quot;-1&quot;,&quot;image&quot;:&quot;/images /gamecard_slot_mg.jpg&quot;,&quot;hover_i m age&quot; :&quot;/images/gamecard_slot_mg_on.j pg&quot;,&quot;link&quot;:&quot;/home/gamelistplatform ?pid=2&quot;},&quot;5&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;ima g e&quot;:&quot; /images/gamecard_slot_ag.jpg&quot;,&quot;hov er_image&quot;:&quot;/images/gamecard_slot_ag_o n.jpg&quot;,&quot;link&quot;:&quot;/home/gamelistpl a tform? pid= 5&quot;}, &quot;1 1 &quot;:{&quot;s tatu s&quot;:&quot; 1&quot; , &quot;image&quot; :&quot;/i mage s / game card_slot_im.jpg&quot;,&quot;hover_image&quot;:&quot;/ images/gamecard_slot_im_on.jpg&quot;,&quot;link &quot;: &quot; /hom e/gamelistplatform?pid=11&quot;},&quot;12&quot;:{ &quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecar d_ s lot_ mw.jpg&quot;,&quot;hover_image&quot;:&quot;/images/g amecard_slot_mw_on.jpg&quot;,&quot;link&quot;:&quot;/ho me / gamelis tpla tfor m ? pid= 12&quot;},&quot;15&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/im ages/gamecard_slot_PG.jpg&quot;,&quot;hover_image &quot;: &quot; /ima ges/gamecard_slot_PG_on.jpg&quot;,&quot;link &quot;:&quot;/home/gamelistplatform?pid=15&quot;},&quot;1 8&quot; : {&quot;st atus&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecar d_slot_KGAME.jpg&quot;,&quot;hover_image&quot;:&quot;/ima ges/gamecard_slot_KGAME_on.jpg&quot; , &quot;link&quot;: &quot;/ho me/g am e listpla tfor m?pi d=gg{ &quot; 1 07&quot;:{&quot;l ive_ game s &quot; :{&quot;n ame&quot;:&quot;真人遊戲&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verti cle&quot;:&quot;1&quot;,&quot;games&quot;:{&quot;844&quot;:{&quot;status&quot;: &quot;1 &quot; ,&quot;im age&quot;:&quot;/images/gamecard_live_ag.jpg&quot; ,&quot;hover_image&quot;:&quot;/images/gamecard_live_ ag _ on.j pg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1&quot;:{&quot;status&quot;:&quot;1&quot;, &quot;image&quot;:&quot;/images/gamecard_live_allbe t. j pg&quot;,&quot; hover_image&quot;:&quot;/images/gamecard _live_allbet_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot; 63 6 &quot;:{&quot; status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/game card_live_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/ im a ges/gam ecar d_li v e _bbin _on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;8&quot;:{&quot;statu s&quot;:&quot;-1&quot;,&quot;image&quot;:&quot;/images/gamecard_ live_m.jpg&quot;,&quot;hover_image&quot;:&quot;/im a ges/ gamecard_live_m_on.jpg&quot;,&quot;link&quot;: &quot;&quot;},&quot;1020&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot; /images/gamecard_live_ebet.jpg &quot; ,&quot;ho ver_image&quot;:&quot;/images/gamecard_li ve_ebet_on.jpg&quot;,&quot;link&quot;:&quot;&quot;}}},&quot;elec tronic_games&quot;:{&quot;name&quot;:&quot;電子遊戲&quot;,&quot;s t atus &quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot; 2&quot;:{&quot;status&quot;:&quot;-1&quot;,&quot;image&quot;:&quot;/images /gamecard_slot_mg.jpg&quot;,&quot;hover_i m age&quot; :&quot;/images/gamecard_slot_mg_on.j pg&quot;,&quot;link&quot;:&quot;/home/gamelistplatform ?pid=2&quot;},&quot;5&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;ima g e&quot;:&quot; /images/gamecard_slot_ag.jpg&quot;,&quot;hov er_image&quot;:&quot;/images/gamecard_slot_ag_o n.jpg&quot;,&quot;link&quot;:&quot;/home/gamelistpl a tform? pid= 5&quot;}, &quot;1 1 &quot;:{&quot;s tatu s&quot;:&quot; 1&quot; , &quot;image&quot; :&quot;/i mage s / game card_slot_im.jpg&quot;,&quot;hover_image&quot;:&quot;/ images/gamecard_slot_im_on.jpg&quot;,&quot;link &quot;: &quot; /hom e/gamelistplatform?pid=11&quot;},&quot;12&quot;:{ &quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecar d_ s lot_ mw.jpg&quot;,&quot;hover_image&quot;:&quot;/images/g amecard_slot_mw_on.jpg&quot;,&quot;link&quot;:&quot;/ho me / gamelis tpla tfor m ? pid= 12&quot;},&quot;15&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/im ages/gamecard_slot_PG.jpg&quot;,&quot;hover_image &quot;: &quot; /ima ges/gamecard_slot_PG_on.jpg&quot;,&quot;link &quot;:&quot;/home/gamelistplatform?pid=15&quot;},&quot;1 8&quot; : {&quot;st atus&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecar d_slot_KGAME.jpg&quot;,&quot;hover_image&quot;:&quot;/ima ges/gamecard_slot_KGAME_on.jpg&quot; , &quot;link&quot;: &quot;/ho me/g am e listpla tfor m?pi d=ggi&quot;}}},&quot;fish_games&quot;:{&quot;name&quot;:&quot;捕魚王&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;1&quot;,&quot;games&quot;:[]},&quot;cockfighting&quot;:{&quot;name&quot;:&quot;鬥雞&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;1&quot;,&quot;games&quot;:[]},&quot;sports_games&quot;:{&quot;name&quot;:&quot;體育投注&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot;564&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_i789.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_i789_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;594&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_bbin_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1872&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_im.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_im_on.jpg&quot;,&quot;link&quot;:&quot;&quot;}}},&quot;lottery_games&quot;:{&quot;name&quot;:&quot;彩票投注&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot;603&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_bbin_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1029&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_DG.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_DG_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;2386&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_GB.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_GB_on.jpg&quot;,&quot;link&quot;:&quot;/home/gamelistplatform?pid=14&quot;}}},&quot;game_BBIN&quot;:{&quot;name&quot;:&quot;BBIN&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:[]},&quot;promotions&quot;:{&quot;name&quot;:&quot;優惠活動&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:[]}}}v18&quot;}}},&quot;fish_games&quot;:{&quot;name&quot;:&quot;捕魚王&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;1&quot;,&quot;games&quot;:[]},&quot;cockfighting&quot;:{&quot;name&quot;:&quot;鬥雞&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;1&quot;,&quot;games&quot;:[]},&quot;sports_games&quot;:{&quot;name&quot;:&quot;體育投注&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot;564&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_i789.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_i789_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;594&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_bbin_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1872&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_im.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_im_on.jpg&quot;,&quot;link&quot;:&quot;&quot;}}},&quot;lottery_games&quot;:{&quot;name&quot;:&quot;彩票投注&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot;603&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_bbin_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1029&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_DG.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_DG_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;2386&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_GB.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_GB_on.jpg&quot;,&quot;link&quot;:&quot;/home/gamelistplatform?pid=14&quot;}}},&quot;game_BBIN&quot;:{&quot;name&quot;:&quot;BBIN&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:[]},&quot;promotions&quot;:{&quot;name&quot;:&quot;優惠活動&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:[]}}}v18&quot;}}},&quot;fish_games&quot;:{&quot;name&quot;:&quot;捕魚王&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;1&quot;,&quot;games&quot;:[]},&quot;cockfighting&quot;:{&quot;name&quot;:&quot;鬥雞&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;1&quot;,&quot;games&quot;:[]},&quot;sports_games&quot;:{&quot;name&quot;:&quot;體育投注&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot;564&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_i789.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_i789_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;594&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_bbin_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1872&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_im.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_im_on.jpg&quot;,&quot;link&quot;:&quot;&quot;}}},&quot;lottery_games&quot;:{&quot;name&quot;:&quot;彩票投注&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot;603&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_bbin_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1029&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_DG.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_DG_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;2386&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_GB.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_GB_on.jpg&quot;,&quot;link&quot;:&quot;/home/gamelistplatform?pid=14&quot;}}},&quot;game_BBIN&quot;:{&quot;name&quot;:&quot;BBIN&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:[]},&quot;promotions&quot;:{&quot;name&quot;:&quot;優惠活動&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:[]}}}v18&quot;}}},&quot;fish_games&quot;:{&quot;name&quot;:&quot;捕魚王&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;1&quot;,&quot;games&quot;:[]},&quot;cockfighting&quot;:{&quot;name&quot;:&quot;鬥雞&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;1&quot;,&quot;games&quot;:[]},&quot;sports_games&quot;:{&quot;name&quot;:&quot;體育投注&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot;564&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_i789.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_i789_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;594&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_bbin_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1872&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_sport_im.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_sport_im_on.jpg&quot;,&quot;link&quot;:&quot;&quot;}}},&quot;lottery_games&quot;:{&quot;name&quot;:&quot;彩票投注&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:{&quot;603&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_bbin.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_bbin_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;1029&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_DG.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_DG_on.jpg&quot;,&quot;link&quot;:&quot;&quot;},&quot;2386&quot;:{&quot;status&quot;:&quot;1&quot;,&quot;image&quot;:&quot;/images/gamecard_lottery_GB.jpg&quot;,&quot;hover_image&quot;:&quot;/images/gamecard_lottery_GB_on.jpg&quot;,&quot;link&quot;:&quot;/home/gamelistplatform?pid=14&quot;}}},&quot;game_BBIN&quot;:{&quot;name&quot;:&quot;BBIN&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:[]},&quot;promotions&quot;:{&quot;name&quot;:&quot;優惠活動&quot;,&quot;status&quot;:&quot;1&quot;,&quot;verticle&quot;:&quot;0&quot;,&quot;games&quot;:[]}}}}</text>
       </register>
     </registers>
     <search>
