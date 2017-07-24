@@ -37,11 +37,6 @@
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-104/html/js/sys_function.js" timestamp="1499944103729">
         <mark key="[" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Http/Controllers/MenuController.php" timestamp="1500349155607">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-119/config/pc_menu_config.json" timestamp="1499829623595">
         <mark key="[" line="168" column="4" />
       </file>
@@ -63,6 +58,11 @@
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-123/config/pc_menu_config.json" timestamp="1499829729511">
         <mark key="[" line="156" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/views/pages/d/gamelistplatform/top.php" timestamp="1500870681275">
+        <mark key="[" line="106" column="33" />
+        <mark key="]" line="106" column="33" />
+        <mark key="." line="106" column="33" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/application/views/js/js_jquery_validate.php" timestamp="1500452503452">
         <mark key="[" line="37" column="30" />
@@ -165,15 +165,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500452911201">
+      <file name="/Dummy.txt" timestamp="1500868687353">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1500864621308" />
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/mobile_menu_config.json" timestamp="1500864642847">
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/mobile_menu_config.json" timestamp="1500864945224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/views/pages/d/gamelistplatform.php" timestamp="1500868533817" />
       <file name="/fragment.php" timestamp="1500278138437">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,11 +203,6 @@
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/ocm-site-124/config/pc_menu_config.json" timestamp="1499829756811">
         <mark key="[" line="156" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/MobileMenuLevel1Repository.php" timestamp="1500283847505">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
       </file>
       <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/new_pc_menu2.blade.php" timestamp="1500278239634">
         <mark key="[" line="36" column="33" />
@@ -269,262 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-  &quot;127&quot;: {
-    &quot;featured&quot;: {
-      &quot;image&quot;: &quot;/images/m2/gamecard_t01.png&quot;,
-      &quot;title_image&quot;: &quot;/images/m2/top_banner_01.jpg&quot;,
-      &quot;type&quot;: &quot;category&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_02.png&quot;,
-      &quot;left_title&quot;: &quot;search_games&quot;,
-      &quot;platforms&quot;: {
-        &quot;All&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;all&quot;,
-          &quot;searchTypeData&quot;: &quot;&quot;,
-          &quot;type&quot;: &quot;top&quot;
-        },
-        &quot;PT&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;7&quot;,
-          &quot;searchTypeData&quot;: &quot;&quot;,
-          &quot;type&quot;: &quot;top&quot;
-        },
-        &quot;IM&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;11&quot;,
-          &quot;searchTypeData&quot;: &quot;&quot;,
-          &quot;type&quot;: &quot;top&quot;
-        },
-        &quot;EBET&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;8&quot;,
-          &quot;searchTypeData&quot;: &quot;&quot;,
-          &quot;type&quot;: &quot;top&quot;
-        },
-        &quot;BBIN&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;4&quot;,
-          &quot;searchTypeData&quot;: &quot;&quot;,
-          &quot;type&quot;: &quot;top&quot;
-        },
-        &quot;AG&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;5&quot;,
-          &quot;searchTypeData&quot;: &quot;&quot;,
-          &quot;type&quot;: &quot;top&quot;
-        },
-        &quot;MG&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;2&quot;,
-          &quot;searchTypeData&quot;: &quot;&quot;,
-          &quot;type&quot;: &quot;top&quot;
-        }
-      }
-    },
-    &quot;BBIN&quot;: {
-      &quot;image&quot;: &quot;/images/m2/gamecard_t02.png&quot;,
-      &quot;title_image&quot;: &quot;&quot;,
-      &quot;type&quot;: &quot;platform&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;platforms&quot;: []
-    },
-    &quot;live_games&quot;: {
-      &quot;image&quot;: &quot;/images/m2/gamecard_t03.png&quot;,
-      &quot;title_image&quot;: &quot;/images/m2/top_banner_02.jpg&quot;,
-      &quot;type&quot;: &quot;category&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_05.png&quot;,
-      &quot;left_title&quot;: &quot;live_games&quot;,
-      &quot;platforms&quot;: {
-        &quot;EBET&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;8&quot;,
-          &quot;searchTypeData&quot;: &quot;3&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;MG&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;2&quot;,
-          &quot;searchTypeData&quot;: &quot;3&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;BBIN&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;4&quot;,
-          &quot;searchTypeData&quot;: &quot;3&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;AG&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;5&quot;,
-          &quot;searchTypeData&quot;: &quot;3&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        }
-      }
-    },
-    &quot;electronic_games&quot;: {
-      &quot;image&quot;: &quot;/images/m2/gamecard_t04.png&quot;,
-      &quot;title_image&quot;: &quot;/images/m2/top_banner_03.jpg&quot;,
-      &quot;type&quot;: &quot;category&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_06.png&quot;,
-      &quot;left_title&quot;: &quot;electronic_games&quot;,
-      &quot;platforms&quot;: {
-        &quot;PT&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;7&quot;,
-          &quot;searchTypeData&quot;: &quot;2&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;IM&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;11&quot;,
-          &quot;searchTypeData&quot;: &quot;2&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;AG&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;5&quot;,
-          &quot;searchTypeData&quot;: &quot;2&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;MG&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;2&quot;,
-          &quot;searchTypeData&quot;: &quot;2&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;PG&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;15&quot;,
-          &quot;searchTypeData&quot;: &quot;2&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;KGAME&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;18&quot;,
-          &quot;searchTypeData&quot;: &quot;2&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        }
-      }
-    },
-    &quot;sports_games&quot;: {
-      &quot;image&quot;: &quot;/images/m2/gamecard_t05.png&quot;,
-      &quot;title_image&quot;: &quot;/images/m2/top_banner_04.jpg&quot;,
-      &quot;type&quot;: &quot;category&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_04.png&quot;,
-      &quot;left_title&quot;: &quot;sports_games&quot;,
-      &quot;platforms&quot;: {
-        &quot;I789&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;3&quot;,
-          &quot;searchTypeData&quot;: &quot;5&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;IMSB&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;10&quot;,
-          &quot;searchTypeData&quot;: &quot;5&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;BBIN&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;4&quot;,
-          &quot;searchTypeData&quot;: &quot;5&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;SB&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;6&quot;,
-          &quot;searchTypeData&quot;: &quot;5&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        }
-      }
-    },
-    &quot;lottery_games&quot;: {
-      &quot;image&quot;: &quot;/images/m2/gamecard_t06.png&quot;,
-      &quot;title_image&quot;: &quot;/images/m2/top_banner_05.jpg&quot;,
-      &quot;type&quot;: &quot;category&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_03.png&quot;,
-      &quot;left_title&quot;: &quot;lottery_games&quot;,
-      &quot;platforms&quot;: {
-        &quot;DG&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;9&quot;,
-          &quot;searchTypeData&quot;: &quot;9&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;BBIN&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;4&quot;,
-          &quot;searchTypeData&quot;: &quot;9&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;AG&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;5&quot;,
-          &quot;searchTypeData&quot;: &quot;9&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;SB&quot;: {
-          &quot;status&quot;: &quot;-1&quot;,
-          &quot;pf_id&quot;: &quot;6&quot;,
-          &quot;searchTypeData&quot;: &quot;9&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        },
-        &quot;GB&quot;: {
-          &quot;status&quot;: &quot;1&quot;,
-          &quot;pf_id&quot;: &quot;14&quot;,
-          &quot;searchTypeData&quot;: &quot;9&quot;,
-          &quot;type&quot;: &quot;type&quot;
-        }
-      }
-    },
-    &quot;mobilecasino&quot;: {
-      &quot;image&quot;: &quot;&quot;,
-      &quot;title_image&quot;: &quot;&quot;,
-      &quot;type&quot;: &quot;activitie&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_07.png&quot;,
-      &quot;left_title&quot;: &quot;mobile_casino&quot;,
-      &quot;platforms&quot;: []
-    },
-    &quot;news&quot;: {
-      &quot;image&quot;: &quot;&quot;,
-      &quot;title_image&quot;: &quot;&quot;,
-      &quot;type&quot;: &quot;activitie&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_08.png&quot;,
-      &quot;left_title&quot;: &quot;news&quot;,
-      &quot;platforms&quot;: []
-    },
-    &quot;promotions&quot;: {
-      &quot;image&quot;: &quot;&quot;,
-      &quot;title_image&quot;: &quot;&quot;,
-      &quot;type&quot;: &quot;activitie&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_09.png&quot;,
-      &quot;left_title&quot;: &quot;promotions&quot;,
-      &quot;platforms&quot;: []
-    },
-    &quot;support&quot;: {
-      &quot;image&quot;: &quot;&quot;,
-      &quot;title_image&quot;: &quot;&quot;,
-      &quot;type&quot;: &quot;activitie&quot;,
-      &quot;status&quot;: &quot;1&quot;,
-      &quot;left_image&quot;: &quot;/images/m2/list_icon_10.png&quot;,
-      &quot;left_title&quot;: &quot;support&quot;,
-      &quot;platforms&quot;: []
-    }
-  }
-}</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
