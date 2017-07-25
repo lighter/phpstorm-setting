@@ -32,12 +32,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/views/pages/d/gamelistplatform/top.php" timestamp="1500954401376">
+      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/views/pages/d/gamelistplatform/top.php" timestamp="1500956671064">
         <mark key="'" line="112" column="97" />
-        <mark key="[" line="74" column="48" />
-        <mark key="]" line="74" column="48" />
-        <mark key="." line="74" column="48" />
-        <mark key="^" line="74" column="52" />
+        <mark key="[" line="31" column="100" />
+        <mark key="]" line="31" column="100" />
+        <mark key="." line="31" column="100" />
+        <mark key="^" line="31" column="108" />
       </file>
       <file name="$USER_HOME$/work/ocm-frontend/application/views/js/js_jquery_validate.php" timestamp="1500452503452">
         <mark key="[" line="37" column="30" />
@@ -95,7 +95,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500885366742">
+      <file name="/Dummy.txt" timestamp="1500956613205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -179,10 +179,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>linear</text>
+        <text>right</text>
       </register>
       <register name="-" type="4">
-        <text>linear</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
