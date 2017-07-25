@@ -2,130 +2,7 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/mobile_menu_config.json" timestamp="1500863441316">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/SiteRepository.php" timestamp="1500257246184">
-        <mark key="[" line="106" column="27" />
-        <mark key="]" line="106" column="28" />
-        <mark key="." line="106" column="28" />
-        <mark key="^" line="106" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/views/js/js_scriptsys.php" timestamp="1500951148678">
-        <mark key="[" line="2" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-126/config/mobile_menu_config.json" timestamp="1500864443858">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-126/config/pc_menu_config.json" timestamp="1500863903933">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/mobile_menu_config.json" timestamp="1500862495156">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/views/pages/d/gamelistplatform/top.php" timestamp="1500956671064">
-        <mark key="'" line="112" column="97" />
-        <mark key="[" line="31" column="100" />
-        <mark key="]" line="31" column="100" />
-        <mark key="." line="31" column="100" />
-        <mark key="^" line="31" column="108" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/views/js/js_jquery_validate.php" timestamp="1500452503452">
-        <mark key="[" line="37" column="30" />
-        <mark key="]" line="76" column="28" />
-        <mark key="." line="76" column="28" />
-        <mark key="^" line="76" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/mobile_menu_config.json" timestamp="1500862676874">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/app/Repository/PcMenuLevel2Repository.php" timestamp="1500283208883">
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-        <mark key="^" line="163" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" timestamp="1500862202214">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/pc_menu_config.json" timestamp="1500862774309">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="7000" />
-      </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/edit_pc2.blade.php" timestamp="1500283680017">
-        <mark key="[" line="35" column="33" />
-        <mark key="]" line="35" column="33" />
-        <mark key="." line="35" column="33" />
-        <mark key="^" line="35" column="32" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/views/js/js_paymentlist.php" timestamp="1500453217380">
-        <mark key="[" line="322" column="21" />
-        <mark key="]" line="322" column="21" />
-        <mark key="." line="322" column="21" />
-        <mark key="^" line="281" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/mobile_menu_config.json" timestamp="1500863757936">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-122/config/pc_menu_config.json" timestamp="1500863701656">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/pc_menu_config.json" timestamp="1500863106719">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1500956613205">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="3" />
-        <mark key="^" line="0" column="3" />
-        <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/application/libraries/Menu_list.php" timestamp="1500864621308" />
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/mobile_menu_config.json" timestamp="1500864945224">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/views/pages/d/gamelistplatform.php" timestamp="1500868533817" />
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/edit_mobile1.blade.php" timestamp="1500375153146">
-        <mark key="[" line="5" column="85" />
-        <mark key="]" line="5" column="85" />
-        <mark key="^" line="40" column="37" />
-        <mark key="." line="5" column="85" />
-      </file>
-      <file name="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/pc_menu_config.json" timestamp="1500864596586">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/pc/new_pc_menu2.blade.php" timestamp="1500278239634">
-        <mark key="[" line="36" column="33" />
-        <mark key="]" line="36" column="33" />
-        <mark key="^" line="36" column="62" />
-        <mark key="." line="36" column="33" />
-      </file>
-    </filemarks>
+    <filemarks />
     <jumps>
       <jump line="18" column="70" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/privacypolicy.php" />
       <jump line="15" column="72" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/views/pages/d/termsconditions.php" />
@@ -157,13 +34,11 @@
       <jump line="39" column="138" filename="$USER_HOME$/work/menu_list/menu_tool/resources/views/menu/mobile/new_mobile_menu1.blade.php" />
       <jump line="20" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" />
       <jump line="311" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" />
       <jump line="250" column="4" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/mobile_menu_config.json" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/mobile_menu_config.json" />
       <jump line="251" column="3" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/mobile_menu_config.json" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/mobile_menu_config.json" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/pc_menu_config.json" />
-      <jump line="157" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/pc_menu_config.json" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/pc_menu_config.json" />
       <jump line="245" column="3" filename="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/mobile_menu_config.json" />
       <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-108/config/mobile_menu_config.json" />
@@ -176,13 +51,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-127/config/mobile_menu_config.json" />
       <jump line="103" column="55" filename="$USER_HOME$/work/ocm-frontend/ocm-site-127/views/pages/d/gamelistplatform/top.php" />
       <jump line="112" column="97" filename="$USER_HOME$/work/ocm-frontend/ocm-site-127/views/pages/d/gamelistplatform/top.php" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-104/config/pc_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-104/config/pc_menu_config.json" />
+      <jump line="157" column="1" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/ocm-frontend/ocm-site-106/config/pc_menu_config.json" />
+      <jump line="157" column="1" filename="$USER_HOME$/work/ocm-frontend/ocm-site-107/config/pc_menu_config.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>right</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -191,36 +71,344 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG91dF9jYXNlX2xlbmd0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hbmltYXRlKHt3aWR0aDogJ3RvZ2dsZSd9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gdG9wX2FuaW1hdGUoKSB7ICAgICAKICAgICAgICAgICAgICAgIHZhciB0ZW1wX3dpZHRoID0gMDsvL+enu+WLleS9jee9rgogICAgICAgICAgICAgICAgdmFyIGkgPSAwOyAvL+ikh+ijveWNoeeJh+aZgumWkwogICAgICAgICAgICAgICAgdmFyICBtYXhfV2lkdGggPSAwOyAvL+acgOWkp+WvrOW6pgogICAgICAgICAgICAgICAgdmFyIGJvb2wgPSB0cnVlOyAvLwogICAgICAgICAgICAgICAgdmFyIGNsb25lX3RpbWUgPSAkKCIuR2FtZUJveFRvcCIpLm91dGVyV2lkdGgoKTsKICAgICAgICAgICAgICAgIHNldEludGVydmFsKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICB2YXIgb3V0X2Nhc2UgPSAkKCIuR2FtZUJveFRvcCAudG9wX2dhbWUiKS5maW5kKCcub3V0X2Nhc2UnKTsgCiAgICAgICAgICAgICAgICAgICAgLy9ob3Zlcuaaq+WBnAogICAgICAgICAgICAgICAgICAgICQoIi5HYW1lQm94VG9wIC50b3BfZ2FtZSAub3V0X2Nhc2UgLmVudGVyX2dhbWUiKS5ob3ZlcihmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJvb2wgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJvb2wgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIC8v6KiI566X57i96ZW35bqmCiAgICAgICAgICAgICAgICAgICAgaWYob3V0X2Nhc2UubGVuZ3RoICE9IDAgJiYgaSA8IDEwMCl7CiAgICAgICAgICAgICAgICAgICAgICAgIG1heF9XaWR0aCA9IChvdXRfY2FzZS5sZW5ndGggKiAxNjApICsgMjA7ICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYgKGJvb2wpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy/ph43poK3plovlp4sKICAgICAgICAgICAgICAgICAgICAgICAgaWYodGVtcF93aWR0aCA+IG1heF9XaWR0aCl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZW1wX3dpZHRoID0gMDsgIAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIC8v6KSH6KO9dG9wX2dhbWUKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGkgPT0gMTAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCIuR2FtZUJveFRvcCAudG9wX2dhbWUgLm91dF9jYXNlIikuY2xvbmUoKS5hcHBlbmRUbygkKCIuR2FtZUJveFRvcCAudG9wX2dhbWUiKSk7ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBfd2lkdGggKz0gMTsKICAgICAgICAgICAgICAgICAgICAgICAgfSAKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBfd2lkdGggKz0gMTsgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoIi50b3BfZ2FtZSIpLmNzcyh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImxlZnQiOiAiLSIgKyB0ZW1wX3dpZHRoICogMS4xICsgInB4IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBpKz0xOyAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LCAyMik7CiAgICAgICAgICAgIH0KCi8vICAgICAgICAgICAgdG9wX2FuaW1hdGUoKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ewogICIxMDciOiB7CiAgICAibGl2ZV9nYW1lcyI6IHsKICAgICAgIm5hbWUiOiAi55yf5Lq66YGK5oiyIiwKICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgInZlcnRpY2xlIjogIjEiLAogICAgICAiZ2FtZXMiOiB7CiAgICAgICAgIjg0NCI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9saXZlX2FnLmpwZyIsCiAgICAgICAgICAiaG92ZXJfaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9saXZlX2FnX29uLmpwZyIsCiAgICAgICAgICAibGluayI6ICIiCiAgICAgICAgfSwKICAgICAgICAiMSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9saXZlX2FsbGJldC5qcGciLAogICAgICAgICAgImhvdmVyX2ltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfbGl2ZV9hbGxiZXRfb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIiIKICAgICAgICB9LAogICAgICAgICI2MzYiOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgImltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfbGl2ZV9iYmluLmpwZyIsCiAgICAgICAgICAiaG92ZXJfaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9saXZlX2JiaW5fb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIiIKICAgICAgICB9LAogICAgICAgICI4IjogewogICAgICAgICAgInN0YXR1cyI6ICItMSIsCiAgICAgICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9saXZlX20uanBnIiwKICAgICAgICAgICJob3Zlcl9pbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX2xpdmVfbV9vbi5qcGciLAogICAgICAgICAgImxpbmsiOiAiIgogICAgICAgIH0sCiAgICAgICAgIjEwMjAiOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgImltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfbGl2ZV9lYmV0LmpwZyIsCiAgICAgICAgICAiaG92ZXJfaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9saXZlX2ViZXRfb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIiIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICAiZWxlY3Ryb25pY19nYW1lcyI6IHsKICAgICAgIm5hbWUiOiAi6Zu75a2Q6YGK5oiyIiwKICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgInZlcnRpY2xlIjogIjAiLAogICAgICAiZ2FtZXMiOiB7CiAgICAgICAgIjIiOiB7CiAgICAgICAgICAic3RhdHVzIjogIi0xIiwKICAgICAgICAgICJpbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfbWcuanBnIiwKICAgICAgICAgICJob3Zlcl9pbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfbWdfb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIi9ob21lL2dhbWVsaXN0cGxhdGZvcm0/cGlkPTIiCiAgICAgICAgfSwKICAgICAgICAiNSI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9zbG90X2FnLmpwZyIsCiAgICAgICAgICAiaG92ZXJfaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9zbG90X2FnX29uLmpwZyIsCiAgICAgICAgICAibGluayI6ICIvaG9tZS9nYW1lbGlzdHBsYXRmb3JtP3BpZD01IgogICAgICAgIH0sCiAgICAgICAgIjExIjogewogICAgICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgICAgICJpbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfaW0uanBnIiwKICAgICAgICAgICJob3Zlcl9pbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfaW1fb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIi9ob21lL2dhbWVsaXN0cGxhdGZvcm0/cGlkPTExIgogICAgICAgIH0sCiAgICAgICAgIjEyIjogewogICAgICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgICAgICJpbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfbXcuanBnIiwKICAgICAgICAgICJob3Zlcl9pbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfbXdfb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIi9ob21lL2dhbWVsaXN0cGxhdGZvcm0/cGlkPTEyIgogICAgICAgIH0sCiAgICAgICAgIjE1IjogewogICAgICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgICAgICJpbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfUEcuanBnIiwKICAgICAgICAgICJob3Zlcl9pbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfUEdfb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIi9ob21lL2dhbWVsaXN0cGxhdGZvcm0/cGlkPTE1IgogICAgICAgIH0sCiAgICAgICAgIjE4IjogewogICAgICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgICAgICJpbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfS0dBTUUuanBnIiwKICAgICAgICAgICJob3Zlcl9pbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX3Nsb3RfS0dBTUVfb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIi9ob21lL2dhbWVsaXN0cGxhdGZvcm0/cGlkPTE4IgogICAgICAgIH0KICAgICAgfQogICAgfSwKICAgICJmaXNoX2dhbWVzIjogewogICAgICAibmFtZSI6ICLmjZXprZrnjosiLAogICAgICAic3RhdHVzIjogIjEiLAogICAgICAidmVydGljbGUiOiAiMSIsCiAgICAgICJnYW1lcyI6IFtdCiAgICB9LAogICAgImNvY2tmaWdodGluZyI6IHsKICAgICAgIm5hbWUiOiAi6ayl6ZueIiwKICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgInZlcnRpY2xlIjogIjEiLAogICAgICAiZ2FtZXMiOiBbXQogICAgfSwKICAgICJzcG9ydHNfZ2FtZXMiOiB7CiAgICAgICJuYW1lIjogIumrlOiCsuaKleazqCIsCiAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICJ2ZXJ0aWNsZSI6ICIwIiwKICAgICAgImdhbWVzIjogewogICAgICAgICI1NjQiOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgImltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfc3BvcnRfaTc4OS5qcGciLAogICAgICAgICAgImhvdmVyX2ltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfc3BvcnRfaTc4OV9vbi5qcGciLAogICAgICAgICAgImxpbmsiOiAiIgogICAgICAgIH0sCiAgICAgICAgIjU5NCI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9zcG9ydF9iYmluLmpwZyIsCiAgICAgICAgICAiaG92ZXJfaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9zcG9ydF9iYmluX29uLmpwZyIsCiAgICAgICAgICAibGluayI6ICIiCiAgICAgICAgfSwKICAgICAgICAiMTg3MiI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9zcG9ydF9pbS5qcGciLAogICAgICAgICAgImhvdmVyX2ltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfc3BvcnRfaW1fb24uanBnIiwKICAgICAgICAgICJsaW5rIjogIiIKICAgICAgICB9CiAgICAgIH0KICAgIH0sCiAgICAibG90dGVyeV9nYW1lcyI6IHsKICAgICAgIm5hbWUiOiAi5b2p56Wo5oqV5rOoIiwKICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgInZlcnRpY2xlIjogIjAiLAogICAgICAiZ2FtZXMiOiB7CiAgICAgICAgIjYwMyI6IHsKICAgICAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICAgICAiaW1hZ2UiOiAiL2ltYWdlcy9nYW1lY2FyZF9sb3R0ZXJ5X2JiaW4uanBnIiwKICAgICAgICAgICJob3Zlcl9pbWFnZSI6ICIvaW1hZ2VzL2dhbWVjYXJkX2xvdHRlcnlfYmJpbl9vbi5qcGciLAogICAgICAgICAgImxpbmsiOiAiIgogICAgICAgIH0sCiAgICAgICAgIjEwMjkiOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgImltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfbG90dGVyeV9ERy5qcGciLAogICAgICAgICAgImhvdmVyX2ltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfbG90dGVyeV9ER19vbi5qcGciLAogICAgICAgICAgImxpbmsiOiAiIgogICAgICAgIH0sCiAgICAgICAgIjIzODYiOiB7CiAgICAgICAgICAic3RhdHVzIjogIjEiLAogICAgICAgICAgImltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfbG90dGVyeV9HQi5qcGciLAogICAgICAgICAgImhvdmVyX2ltYWdlIjogIi9pbWFnZXMvZ2FtZWNhcmRfbG90dGVyeV9HQl9vbi5qcGciLAogICAgICAgICAgImxpbmsiOiAiL2hvbWUvZ2FtZWxpc3RwbGF0Zm9ybT9waWQ9MTQiCiAgICAgICAgfQogICAgICB9CiAgICB9LAogICAgImdhbWVfQkJJTiI6IHsKICAgICAgIm5hbWUiOiAiQkJJTiIsCiAgICAgICJzdGF0dXMiOiAiMSIsCiAgICAgICJ2ZXJ0aWNsZSI6ICIwIiwKICAgICAgImdhbWVzIjogW10KICAgIH0sCiAgICAicHJvbW90aW9ucyI6IHsKICAgICAgIm5hbWUiOiAi5YSq5oOg5rS75YuVIiwKICAgICAgInN0YXR1cyI6ICIxIiwKICAgICAgInZlcnRpY2xlIjogIjAiLAogICAgICAiZ2FtZXMiOiBbXQogICAgfQogIH0KfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="3" type="4">
+        <text>{
+  &quot;106&quot;: {
+    &quot;live_games&quot;: {
+      &quot;name&quot;: &quot;真人遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: {
+        &quot;844&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_allbet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_allbet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;636&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;8&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_m.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_m_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1020&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ebet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ebet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;name&quot;: &quot;電子遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;2&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mg.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mg_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=2&quot;
+        },
+        &quot;5&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=5&quot;
+        },
+        &quot;11&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=11&quot;
+        },
+        &quot;12&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mw.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mw_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=12&quot;
+        },
+        &quot;15&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_PG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_PG_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=15&quot;
+        },
+        &quot;18&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_KGAME.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_KGAME_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=18&quot;
+        }
+      }
+    },
+    &quot;fish_games&quot;: {
+      &quot;name&quot;: &quot;捕魚王&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;cockfighting&quot;: {
+      &quot;name&quot;: &quot;鬥雞&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;sports_games&quot;: {
+      &quot;name&quot;: &quot;體育投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;564&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_i789.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_i789_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;594&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1872&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;name&quot;: &quot;彩票投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;603&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1029&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_DG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_DG_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;2386&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_GB.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_GB_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=14&quot;
+        }
+      }
+    },
+    &quot;game_BBIN&quot;: {
+      &quot;name&quot;: &quot;BBIN&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;name&quot;: &quot;優惠活動&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    }
+  }
+}</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAkc2xpY2tfcGFyZW50ID0gJCgnLnRvcF9nYW1lJyk7Ci8vICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCQoJy50b3BfZ2FtZSA+IC5vdXRfY2FzZTpmaXJzdCcpKTsKLy8gICAgICAgICAgICAgICAgZGVidWdnZXI7</text>
+        <text>{
+  &quot;104&quot;: {
+    &quot;live_games&quot;: {
+      &quot;name&quot;: &quot;真人遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+        &quot;844&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_allbet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_allbet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;636&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;8&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_m.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_m_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1020&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_live_ebet.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_live_ebet_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;electronic_games&quot;: {
+      &quot;name&quot;: &quot;電子遊戲&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;2&quot;: {
+          &quot;status&quot;: &quot;-1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mg.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mg_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=2&quot;
+        },
+        &quot;5&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_ag.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_ag_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=5&quot;
+        },
+        &quot;11&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=11&quot;
+        },
+        &quot;12&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_mw.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_mw_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=12&quot;
+        },
+        &quot;15&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_PG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_PG_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=15&quot;
+        },
+        &quot;18&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_slot_KGAME.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_slot_KGAME_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=18&quot;
+        }
+      }
+    },
+    &quot;fish_games&quot;: {
+      &quot;name&quot;: &quot;捕魚王&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;cockfighting&quot;: {
+      &quot;name&quot;: &quot;鬥雞&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;1&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;sports_games&quot;: {
+      &quot;name&quot;: &quot;體育投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;564&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_i798.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_i798_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;594&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1872&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_sport_im.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_sport_im_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        }
+      }
+    },
+    &quot;lottery_games&quot;: {
+      &quot;name&quot;: &quot;彩票投注&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: {
+        &quot;603&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_bbin.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_bbin_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;1029&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_DG.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_DG_on.jpg&quot;,
+          &quot;link&quot;: &quot;&quot;
+        },
+        &quot;2386&quot;: {
+          &quot;status&quot;: &quot;1&quot;,
+          &quot;image&quot;: &quot;/images/gamecard_lottery_GB.jpg&quot;,
+          &quot;hover_image&quot;: &quot;/images/gamecard_lottery_GB_on.jpg&quot;,
+          &quot;link&quot;: &quot;/home/gamelistplatform?pid=14&quot;
+        }
+      }
+    },
+    &quot;game_BBIN&quot;: {
+      &quot;name&quot;: &quot;BBIN&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    },
+    &quot;promotions&quot;: {
+      &quot;name&quot;: &quot;優惠活動&quot;,
+      &quot;status&quot;: &quot;1&quot;,
+      &quot;verticle&quot;: &quot;0&quot;,
+      &quot;games&quot;: []
+    }
+  }
+}</text>
       </register>
-      <register name="5" type="4">
-        <text>slick({
-                    slidesToShow: 3,
-                    slidesToScroll: 1,
-                    autoplay: true,
-                    autoplaySpeed: 2000,
-                });</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgImdhbWVzIjogewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gdG9wX2FuaW1hdGUoKSB7ICAgICAKICAgICAgICAgICAgICAgIHZhciB0ZW1wX3dpZHRoID0gMDsvL+enu+WLleS9jee9rgogICAgICAgICAgICAgICAgdmFyIGkgPSAwOyAvL+ikh+ijveWNoeeJh+aZgumWkwogICAgICAgICAgICAgICAgdmFyICBtYXhfV2lkdGggPSAwOyAvL+acgOWkp+WvrOW6pgogICAgICAgICAgICAgICAgdmFyIGJvb2wgPSB0cnVlOyAvLwoKICAgICAgICAgICAgICAgIHZhciBhcHBlbmRfY291bnQgPSAwOwoKICAgICAgICAgICAgICAgIHNldEludGVydmFsKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICB2YXIgb3V0X2Nhc2UgPSAkKCIuR2FtZUJveFRvcCAudG9wX2dhbWUiKS5maW5kKCcub3V0X2Nhc2UnKTsKICAgICAgICAgICAgICAgICAgICAvL2hvdmVy5pqr5YGcCiAgICAgICAgICAgICAgICAgICAgJCgiLkdhbWVCb3hUb3AgLnRvcF9nYW1lIC5vdXRfY2FzZSAuZW50ZXJfZ2FtZSIpLmhvdmVyKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYm9vbCA9IGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0sIGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICAgICAgYm9vbCA9IHRydWU7CiAgICAgICAgICAgICAgICAgICAgfSk7CgogICAgICAgICAgICAgICAgICAgIG1heF9XaWR0aCA9IG91dF9jYXNlX2xlbmd0aCAqIDEwMCAvIDI7CiAgICAgICAgICAgICAgICAgICAgaWYgKGJvb2wpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygndGVtcF93aWR0aDogJyArIHRlbXBfd2lkdGggKyAnLCBtYXhfV2lkdGg6ICcgKyBtYXhfV2lkdGggKyAnLCBvdXRfY2FzZV9sZW5ndGg6ICcgKyBvdXRfY2FzZV9sZW5ndGggKyAnLCAnICsgJCgiLkdhbWVCb3hUb3AgLnRvcF9nYW1lIC5vdXRfY2FzZSIpLmxlbmd0aCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmKHRlbXBfd2lkdGggJSAkKCcuR2FtZUJveFRvcCcpLndpZHRoKCkgPT0gMCl7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBfd2lkdGggPSAwOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiLkdhbWVCb3hUb3AgLnRvcF9nYW1lIC5vdXRfY2FzZSIpLnNsaWNlKDAsIChvdXRfY2FzZV9sZW5ndGggLSAxKSkuY2xvbmUodHJ1ZSkuYXBwZW5kVG8oJCgiLkdhbWVCb3hUb3AgLnRvcF9nYW1lIikpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgiLm91dF9jYXNlOmx0KCIrIChvdXRfY2FzZV9sZW5ndGggLSAxKSArIikiKS5yZW1vdmUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwcGVuZF9jb3VudCsrOwogICAgICAgICAgICAgICAgICAgICAgICB9CgovLyAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhcHBlbmRfY291bnQgPT09IDIpIHsKLy8gICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5lcnJvcigkKCcub3V0X2Nhc2UnKS5sZW5ndGgpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCIub3V0X2Nhc2U6bHQoIisgKG91dF9jYXNlX2xlbmd0aCAtIDEpICsiKSIpLnJlbW92ZSgpOwovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLndhcm4oJ3RlbXBfd2lkdGg6ICcgKyB0ZW1wX3dpZHRoICsgJywgbWF4X1dpZHRoOiAnICsgbWF4X1dpZHRoICsgJywgb3V0X2Nhc2VfbGVuZ3RoOiAnICsgb3V0X2Nhc2VfbGVuZ3RoICsgJywgJyArICQoIi5vdXRfY2FzZSIpLmxlbmd0aCk7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFwcGVuZF9jb3VudCA9IDA7Ci8vICAgICAgICAgICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgICAgICAgICAgLy/opIfoo710b3BfZ2FtZQogICAgICAgICAgICAgICAgICAgICAgICBpZiAoaSA9PSAxMDApIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBfd2lkdGggKz0gMTsKICAgICAgICAgICAgICAgICAgICAgICAgfSAKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBfd2lkdGggKz0gMTsgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoIi50b3BfZ2FtZSIpLmNzcyh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImxlZnQiOiAiLSIgKyB0ZW1wX3dpZHRoICogMS4xICsgInB4IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgfTsKICAgICAgICAgICAgICAgICAgICAgICAgaSs9MTsKICAgICAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgfSwgMjIpOwogICAgICAgICAgICB9CgovLyAgICAgICAgICAgIHRvcF9hbmltYXRlKCk7CgogICAgICAgICAgICAkKCcudG9wX2dhbWUnKS5zbGljaygpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hbmltYXRlKHt3aWR0aDogJ3RvZ2dsZSd9KTsK</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiIHNyYz0iLy9jZG4uanNkZWxpdnIubmV0L2pxdWVyeS5zbGljay8xLjYuMC9zbGljay5taW4uanMiPjwvc2NyaXB0Pgo8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBocmVmPSIvL2Nkbi5qc2RlbGl2ci5uZXQvanF1ZXJ5LnNsaWNrLzEuNi4wL3NsaWNrLmNzcyIvPgo8IS0tIEFkZCB0aGUgc2xpY2stdGhlbWUuY3NzIGlmIHlvdSB3YW50IGRlZmF1bHQgc3R5bGluZyAtLT4KPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0iLy9jZG4uanNkZWxpdnIubmV0L2pxdWVyeS5zbGljay8xLjYuMC9zbGljay10aGVtZS5jc3MiLz4=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gdG9wX2FuaW1hdGUoKSB7ICAgICAKICAgICAgICAgICAgICAgIHZhciB0ZW1wX3dpZHRoID0gMDsvL+enu+WLleS9jee9rgogICAgICAgICAgICAgICAgdmFyIGkgPSAwOyAvL+ikh+ijveWNoeeJh+aZgumWkwogICAgICAgICAgICAgICAgdmFyICBtYXhfV2lkdGggPSAwOyAvL+acgOWkp+WvrOW6pgogICAgICAgICAgICAgICAgdmFyIGJvb2wgPSB0cnVlOyAvLwogICAgICAgICAgICAgICAgdmFyIGNsb25lX3RpbWUgPSAkKCIuR2FtZUJveFRvcCIpLm91dGVyV2lkdGgoKTsKICAgICAgICAgICAgICAgIHNldEludGVydmFsKGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgICAgICB2YXIgb3V0X2Nhc2UgPSAkKCIuR2FtZUJveFRvcCAudG9wX2dhbWUiKS5maW5kKCcub3V0X2Nhc2UnKTsgCiAgICAgICAgICAgICAgICAgICAgLy9ob3Zlcuaaq+WBnAogICAgICAgICAgICAgICAgICAgICQoIi5HYW1lQm94VG9wIC50b3BfZ2FtZSAub3V0X2Nhc2UgLmVudGVyX2dhbWUiKS5ob3ZlcihmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJvb2wgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICB9LCBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGJvb2wgPSB0cnVlOwogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIC8v6KiI566X57i96ZW35bqmCiAgICAgICAgICAgICAgICAgICAgaWYob3V0X2Nhc2UubGVuZ3RoICE9IDAgJiYgaSA8IDEwMCl7CiAgICAgICAgICAgICAgICAgICAgICAgIG1heF9XaWR0aCA9IChvdXRfY2FzZS5sZW5ndGggKiAxNjApICsgMjA7ICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYgKGJvb2wpIHsKICAgICAgICAgICAgICAgICAgICAgICAgLy/ph43poK3plovlp4sKICAgICAgICAgICAgICAgICAgICAgICAgaWYodGVtcF93aWR0aCA+IG1heF9XaWR0aCl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB0ZW1wX3dpZHRoID0gMDsgIAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIC8v6KSH6KO9dG9wX2dhbWUKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGkgPT0gMTAwKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCIuR2FtZUJveFRvcCAudG9wX2dhbWUgLm91dF9jYXNlIikuY2xvbmUoKS5hcHBlbmRUbygkKCIuR2FtZUJveFRvcCAudG9wX2dhbWUiKSk7ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBfd2lkdGggKz0gMTsKICAgICAgICAgICAgICAgICAgICAgICAgfSAKICAgICAgICAgICAgICAgICAgICAgICAgZWxzZXsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRlbXBfd2lkdGggKz0gMTsgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoIi50b3BfZ2FtZSIpLmNzcyh7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgImxlZnQiOiAiLSIgKyB0ZW1wX3dpZHRoICogMS4xICsgInB4IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICBpKz0xOyAKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LCAyMik7CiAgICAgICAgICAgIH0KCi8vICAgICAgICAgICAgdG9wX2FuaW1hdGUoKTs=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICQoJy5HYW1lQm94VG9wJykuc2xpY2soewogICAgICAgICAgICAgICAgc2xpZGVzVG9TaG93OiA4LAogICAgICAgICAgICAgICAgc2xpZGVzVG9TY3JvbGw6IDEsCiAgICAgICAgICAgICAgICBhdXRvcGxheTogdHJ1ZSwKICAgICAgICAgICAgICAgIGF1dG9wbGF5U3BlZWQ6IDIwMDAKICAgICAgICAgICAgfSk7</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoJCgnLm91dF9jYXNlJykubGVuZ3RoKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciAkc2xpY2tfcGFyZW50ID0gJCgnLnRvcF9nYW1lJyk7Ci8vICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCQoJy50b3BfZ2FtZSA+IC5vdXRfY2FzZTpmaXJzdCcpKTsKLy8gICAgICAgICAgICAgICAgZGVidWdnZXI7</text>
       </register>
     </registers>
     <search>
