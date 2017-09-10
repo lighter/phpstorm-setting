@@ -9,4 +9,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
 </keymap>
