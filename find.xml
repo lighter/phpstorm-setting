@@ -5,18 +5,14 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.bladphp</mask>
       <mask>*..blphp</mask>
       <mask>*..bphp</mask>
-      <mask>*.bphp</mask>
-      <mask>*.blphp</mask>
-      <mask>*.blaphp</mask>
-      <mask>*.bladephp</mask>
       <mask>*.blad.php</mask>
       <mask>*.bla.php</mask>
       <mask>*.bl.php</mask>
@@ -28,7 +24,6 @@
       <mask>*.blade</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.p</mask>
-      <mask>*.blade.php</mask>
       <mask>*..php</mask>
       <mask>*.ph</mask>
       <mask>*.js</mask>
@@ -36,6 +31,12 @@
       <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.bphp</mask>
+      <mask>*.blphp</mask>
+      <mask>*.blaphp</mask>
+      <mask>*.bladphp</mask>
+      <mask>*.bladephp</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
