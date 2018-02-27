@@ -14,5 +14,6 @@
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
