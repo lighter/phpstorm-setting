@@ -13,7 +13,7 @@
     <mask>*.css</mask>
     <mask>*.blade.php</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*.sh</mask>
+    <mask>*.js</mask>
   </component>
 </application>
