@@ -2,7 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="1.8.2.2" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="accentColor" value="80cbc4" />
+    <option name="upperCaseTabs" value="true" />
     <option name="accentTitleBarColor" value="80cbc4" />
   </component>
 </application>
