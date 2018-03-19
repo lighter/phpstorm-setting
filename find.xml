@@ -12,8 +12,8 @@
     <mask>*.mxml</mask>
     <mask>*.css</mask>
     <mask>*.sh</mask>
-    <mask>*.blade.php</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
