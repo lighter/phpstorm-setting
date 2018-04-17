@@ -16,8 +16,8 @@
     <mask>*.css</mask>
     <mask>*.sh</mask>
     <mask>*.balde.php</mask>
-    <mask>*.js</mask>
     <mask>*.blade.php</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
