@@ -9,16 +9,11 @@
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.sh</mask>
-    <mask>*.balde.php</mask>
-    <mask>*.vue</mask>
-    <mask>*.scss</mask>
-    <mask>strings.properties</mask>
-    <mask>*.css</mask>
-    <mask>*.blade.php</mask>
     <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.blade.php</mask>
     <mask>*.php</mask>
   </component>
 </application>
