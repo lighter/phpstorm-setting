@@ -14,8 +14,8 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.blade.php</mask>
     <mask>*.php</mask>
+    <mask>*.blade.php</mask>
     <mask>*.js</mask>
   </component>
 </application>
