@@ -1,7 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isContrastMode" value="true" />
+    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="3ac5be58:1666150d4c5:-8000" />
     <option name="version" value="4.4.6" />
